@@ -2307,11 +2307,11 @@
 			<key>Type</key>
 			<string>Other Beverages</string>
 			<key>Name</key>
-			<string>ロースト ナッティ チェスナッツ ラテ</string>
+			<string>チョコラティ　クランブル　ココ</string>
 			<key>Photo</key>
-			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/roastednuttychessnutslatte.jpg</string>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/chocolatecrumblecoco.jpg</string>
 			<key>Calorie</key>
-			<string>192</string>
+			<string>308</string>
 			<key>Price</key>
 			<string>420</string>
 			<key>Temperature</key>
@@ -2321,6 +2321,7 @@
 			</array>
 			<key>Size</key>
 			<array>
+				<string>Short</string>
 				<string>Tall</string>
 				<string>Grande</string>
 				<string>Venti</string>
@@ -2397,11 +2398,11 @@
 			<key>Type</key>
 			<string>Frappuccino</string>
 			<key>Name</key>
-			<string>ロースト ナッティ チェスナッツ フラペチーノ</string>
+			<string>チョコラティ　クランブル　ココ　フラペチーノ</string>
 			<key>Photo</key>
-			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/roastednuttychessnutsfrappuccino.jpg</string>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/chocolatecrumblecocofrappuccino.jpg</string>
 			<key>Calorie</key>
-			<string>358</string>
+			<string>356</string>
 			<key>Price</key>
 			<string>560</string>
 			<key>Temperature</key>
@@ -2526,7 +2527,7 @@
 		<string>3</string>
 		<key>キャラメルホワイトモカ</key>
 		<string>1</string>
-		<key>ロースト ナッティ チェスナッツ ラテ</key>
+		<key>チョコラティ　クランブル　ココ　フラペチーノ</key>
 		<string>1</string>
 		<key>カフェミスト</key>
 		<string>1</string>
@@ -2579,7 +2580,7 @@
 		<string>1</string>
 		<key>キャラメルホワイトモカ</key>
 		<string>4</string>
-		<key>ロースト ナッティ チェスナッツ ラテ</key>
+		<key>チョコラティ　クランブル　ココ　フラペチーノ</key>
 		<string>3</string>
 		<key>カフェミスト</key>
 		<string>1</string>
