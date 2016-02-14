@@ -739,7 +739,7 @@
 			<key>Calorie</key>
 			<string>268</string>
 			<key>Price</key>
-			<string>470</string>
+			<string>490</string>
 			<key>Temperature</key>
 			<array>
 				<string>アイス</string>
@@ -909,7 +909,7 @@
 			<key>Calorie</key>
 			<string>256</string>
 			<key>Price</key>
-			<string>450</string>
+			<string>470</string>
 			<key>Temperature</key>
 			<array>
 				<string>アイス</string>
@@ -1004,7 +1004,7 @@
 			<key>Calorie</key>
 			<string>118</string>
 			<key>Price</key>
-			<string>400</string>
+			<string>420</string>
 			<key>Temperature</key>
 			<array>
 				<string>アイス</string>
@@ -1357,7 +1357,7 @@
 			<key>Calorie</key>
 			<string>223</string>
 			<key>Price</key>
-			<string>450</string>
+			<string>470</string>
 			<key>Temperature</key>
 			<array>
 				<string>アイス</string>
@@ -1447,7 +1447,7 @@
 			<key>Calorie</key>
 			<string>188</string>
 			<key>Price</key>
-			<string>450</string>
+			<string>470</string>
 			<key>Temperature</key>
 			<array>
 				<string>アイス</string>
