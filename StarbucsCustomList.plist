@@ -2307,16 +2307,15 @@
 			<key>Type</key>
 			<string>Other Beverages</string>
 			<key>Name</key>
-			<string>チョコラティ　クランブル　ココ</string>
+			<string>さくらブロッサム＆ストロベリーラテ</string>
 			<key>Photo</key>
-			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/chocolatecrumblecoco.jpg</string>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/sakurablossomandstrawberrylatte.jpg</string>
 			<key>Calorie</key>
-			<string>308</string>
+			<string>272</string>
 			<key>Price</key>
-			<string>420</string>
+			<string>430</string>
 			<key>Temperature</key>
 			<array>
-				<string>アイス</string>
 				<string>ホット</string>
 			</array>
 			<key>Size</key>
@@ -2398,13 +2397,13 @@
 			<key>Type</key>
 			<string>Frappuccino</string>
 			<key>Name</key>
-			<string>チョコラティ　クランブル　ココ　フラペチーノ</string>
+			<string>さくらブロッサム＆ストロベリーフラペチーノ</string>
 			<key>Photo</key>
-			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/chocolatecrumblecocofrappuccino.jpg</string>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/sakurablossomandstrawberryfrappuccino.jpg</string>
 			<key>Calorie</key>
-			<string>356</string>
+			<string>401</string>
 			<key>Price</key>
-			<string>560</string>
+			<string>550</string>
 			<key>Temperature</key>
 			<array>
 				<string>アイス</string>
@@ -2527,7 +2526,7 @@
 		<string>3</string>
 		<key>キャラメルホワイトモカ</key>
 		<string>1</string>
-		<key>チョコラティ　クランブル　ココ　フラペチーノ</key>
+		<key>さくらブロッサム＆ストロベリーフラペチーノ</key>
 		<string>1</string>
 		<key>カフェミスト</key>
 		<string>1</string>
@@ -2580,7 +2579,7 @@
 		<string>1</string>
 		<key>キャラメルホワイトモカ</key>
 		<string>4</string>
-		<key>チョコラティ　クランブル　ココ　フラペチーノ</key>
+		<key>さくらブロッサム＆ストロベリーフラペチーノ</key>
 		<string>3</string>
 		<key>カフェミスト</key>
 		<string>1</string>
