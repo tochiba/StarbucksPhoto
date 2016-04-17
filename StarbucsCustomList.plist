@@ -2053,77 +2053,6 @@
 		</dict>
 		<dict>
 			<key>Type</key>
-			<string>Espresso Beverages</string>
-			<key>Name</key>
-			<string>キャラメルホワイトモカ</string>
-			<key>Photo</key>
-			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/CaramelWhiteMocha.jpg</string>
-			<key>Calorie</key>
-			<string>233</string>
-			<key>Price</key>
-			<string>410</string>
-			<key>Temperature</key>
-			<array>
-				<string>アイス</string>
-				<string>ホット</string>
-			</array>
-			<key>Size</key>
-			<array>
-				<string>Short</string>
-				<string>Tall</string>
-				<string>Grande</string>
-				<string>Venti</string>
-			</array>
-			<key>Shot</key>
-			<array>
-				<string>1</string>
-				<string>1</string>
-				<string>2</string>
-				<string>3</string>
-			</array>
-			<key>Base</key>
-			<array/>
-			<key>Syrup</key>
-			<array/>
-			<key>Sauce</key>
-			<array>
-				<string>変更なし</string>
-				<string>ソース抜き</string>
-				<string>チョコレートソース追加</string>
-				<string>チョコレートソースに変更</string>
-				<string>キャラメルソース追加</string>
-				<string>キャラメルソースに変更</string>
-			</array>
-			<key>Powder</key>
-			<array/>
-			<key>Jelly</key>
-			<array/>
-			<key>WhippedCream</key>
-			<array>
-				<string>変更なし</string>
-				<string>ホイップ増量</string>
-				<string>ホイップなし</string>
-			</array>
-			<key>Milk</key>
-			<array>
-				<string>ミルク</string>
-				<string>ソイミルク</string>
-				<string>ノンファットミルク</string>
-				<string>低脂肪ミルク</string>
-				<string>ブラベミルク</string>
-				<string>ノンフォーム</string>
-			</array>
-			<key>Espresso</key>
-			<array>
-				<string>変更なし</string>
-				<string>ショット少なめ</string>
-				<string>ショット追加</string>
-			</array>
-			<key>Recommend</key>
-			<array/>
-		</dict>
-		<dict>
-			<key>Type</key>
 			<string>Other Beverages</string>
 			<key>Name</key>
 			<string>ほうじ茶 ティー ラテ</string>
@@ -2514,7 +2443,7 @@
 		<string>2</string>
 		<key>ソイ ラテ</key>
 		<string>3</string>
-		<key>キャラメルホワイトモカ</key>
+		<key>チョコレートブラウニー抹茶クリームフラペチーノ</key>
 		<string>1</string>
 		<key>カンタロープメロンアンドクリームフラペチーノ</key>
 		<string>1</string>
@@ -2567,7 +2496,7 @@
 		<string>1</string>
 		<key>ソイ ラテ</key>
 		<string>1</string>
-		<key>キャラメルホワイトモカ</key>
+		<key>チョコレートブラウニー抹茶クリームフラペチーノ</key>
 		<string>4</string>
 		<key>カンタロープメロンアンドクリームフラペチーノ</key>
 		<string>3</string>
