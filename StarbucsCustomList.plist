@@ -2236,13 +2236,13 @@
 			<key>Type</key>
 			<string>Frappuccino</string>
 			<key>Name</key>
-			<string>カンタロープメロンアンドクリームフラペチーノ</string>
+			<string>ストロベリーディライトフラペチーノ</string>
 			<key>Photo</key>
-			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/cantaloupeandcreamfrappuccino.jpg</string>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/strawberrydelightfrappuccino.jpg</string>
 			<key>Calorie</key>
-			<string>388</string>
+			<string>444</string>
 			<key>Price</key>
-			<string>630</string>
+			<string>600</string>
 			<key>Temperature</key>
 			<array>
 				<string>アイス</string>
@@ -2445,7 +2445,7 @@
 		<string>3</string>
 		<key>チョコレートブラウニー抹茶クリームフラペチーノ</key>
 		<string>1</string>
-		<key>カンタロープメロンアンドクリームフラペチーノ</key>
+		<key>ストロベリーディライトフラペチーノ</key>
 		<string>1</string>
 		<key>カフェミスト</key>
 		<string>1</string>
@@ -2498,7 +2498,7 @@
 		<string>1</string>
 		<key>チョコレートブラウニー抹茶クリームフラペチーノ</key>
 		<string>4</string>
-		<key>カンタロープメロンアンドクリームフラペチーノ</key>
+		<key>ストロベリーディライトフラペチーノ</key>
 		<string>3</string>
 		<key>カフェミスト</key>
 		<string>1</string>
