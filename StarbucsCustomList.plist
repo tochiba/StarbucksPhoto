@@ -2318,13 +2318,13 @@
 			<key>Type</key>
 			<string>Frappuccino</string>
 			<key>Name</key>
-			<string>チョコレートブラウニー抹茶クリームフラペチーノ</string>
+			<string>ベイクドチーズケーキフラペチーノ</string>
 			<key>Photo</key>
-			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/chocolatebrowniematchacreamfrappuccino.jpg</string>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/bakedcheesecakefrappuccino.jpg</string>
 			<key>Calorie</key>
-			<string>388</string>
+			<string>480</string>
 			<key>Price</key>
-			<string>550</string>
+			<string>610</string>
 			<key>Temperature</key>
 			<array>
 				<string>アイス</string>
@@ -2396,6 +2396,98 @@
 			<key>Recommend</key>
 			<array/>
 		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Other Beverages</string>
+			<key>Name</key>
+			<string>スターバックスリフレッシャーズビバレッジクールライム</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/starbucksrefreshersbeveragecoollime.jpg</string>
+			<key>Calorie</key>
+			<string>060</string>
+			<key>Price</key>
+			<string>400</string>
+			<key>Temperature</key>
+			<array>
+				<string>アイス</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Short</string>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>変更なし</string>
+				<string>シロップ抜き</string>
+				<string>バニラシロップ追加</string>
+				<string>バニラシロップに変更</string>
+				<string>キャラメルシロップ追加</string>
+				<string>キャラメルシロップに変更</string>
+				<string>ヘーゼルナッツシロップ追加</string>
+				<string>ヘーゼルナッツシロップに変更</string>
+				<string>モカシロップ追加</string>
+				<string>モカシロップに変更</string>
+				<string>ホワイトモカシロップ追加</string>
+				<string>ホワイトモカシロップに変更</string>
+				<string>チャイシロップ追加</string>
+				<string>チャイシロップに変更</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>変更なし</string>
+				<string>ソース抜き</string>
+				<string>チョコレートソース追加</string>
+				<string>チョコレートソースに変更</string>
+				<string>キャラメルソース追加</string>
+				<string>キャラメルソースに変更</string>
+			</array>
+			<key>Powder</key>
+			<array/>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>なし</string>
+				<string>ホイップ追加</string>
+			</array>
+			<key>MilkCustom</key>
+			<array>
+				<string>なし</string>
+				<string>オールミルク</string>
+			</array>
+			<key>Milk</key>
+			<array>
+				<string>ミルク</string>
+				<string>ソイミルク</string>
+				<string>ノンファットミルク</string>
+				<string>低脂肪ミルク</string>
+				<string>ブラベミルク</string>
+				<string>ノンフォーム</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>なし</string>
+				<string>ショット少なめ追加</string>
+				<string>ショット追加</string>
+			</array>
+			<key>Recommend</key>
+			<array>
+				<string>ソイミルク + ハチミツ</string>
+				<string>フォームミルク多め + ハチミツ</string>
+			</array>
+		</dict>
 	</array>
 	<key>TemperatureDic</key>
 	<dict>
@@ -2443,7 +2535,7 @@
 		<string>2</string>
 		<key>ソイ ラテ</key>
 		<string>3</string>
-		<key>チョコレートブラウニー抹茶クリームフラペチーノ</key>
+		<key>ベイクドチーズケーキフラペチーノ</key>
 		<string>1</string>
 		<key>ストロベリーディライトフラペチーノ</key>
 		<string>1</string>
@@ -2496,7 +2588,7 @@
 		<string>1</string>
 		<key>ソイ ラテ</key>
 		<string>1</string>
-		<key>チョコレートブラウニー抹茶クリームフラペチーノ</key>
+		<key>ベイクドチーズケーキフラペチーノ</key>
 		<string>4</string>
 		<key>ストロベリーディライトフラペチーノ</key>
 		<string>3</string>
