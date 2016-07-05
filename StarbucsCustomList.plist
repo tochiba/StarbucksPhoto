@@ -2318,13 +2318,13 @@
 			<key>Type</key>
 			<string>Frappuccino</string>
 			<key>Name</key>
-			<string>ベイクドチーズケーキフラペチーノ</string>
+			<string>コーヒージェリーアンドクリーミーバニラフラペチーノ</string>
 			<key>Photo</key>
-			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/bakedcheesecakefrappuccino.jpg</string>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/coffeejerryandcreamyvanillafrappuccino.jpg</string>
 			<key>Calorie</key>
-			<string>480</string>
+			<string>367</string>
 			<key>Price</key>
-			<string>610</string>
+			<string>590</string>
 			<key>Temperature</key>
 			<array>
 				<string>アイス</string>
@@ -2719,7 +2719,7 @@
 		<string>2</string>
 		<key>ソイ ラテ</key>
 		<string>3</string>
-		<key>ベイクドチーズケーキフラペチーノ</key>
+		<key>コーヒージェリーアンドクリーミーバニラフラペチーノ</key>
 		<string>1</string>
 		<key>ストロベリーディライトフラペチーノ</key>
 		<string>1</string>
@@ -2772,7 +2772,7 @@
 		<string>1</string>
 		<key>ソイ ラテ</key>
 		<string>1</string>
-		<key>ベイクドチーズケーキフラペチーノ</key>
+		<key>コーヒージェリーアンドクリーミーバニラフラペチーノ</key>
 		<string>4</string>
 		<key>ストロベリーディライトフラペチーノ</key>
 		<string>3</string>
