@@ -2236,13 +2236,13 @@
 			<key>Type</key>
 			<string>Frappuccino</string>
 			<key>Name</key>
-			<string>ストロベリーディライトフラペチーノ</string>
+			<string>クラッシュオレンジフラペチーノ</string>
 			<key>Photo</key>
-			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/strawberrydelightfrappuccino.jpg</string>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/crashorangefrappuccino.jpg</string>
 			<key>Calorie</key>
-			<string>444</string>
+			<string>280</string>
 			<key>Price</key>
-			<string>600</string>
+			<string>610</string>
 			<key>Temperature</key>
 			<array>
 				<string>アイス</string>
@@ -2721,7 +2721,7 @@
 		<string>3</string>
 		<key>コーヒージェリーアンドクリーミーバニラフラペチーノ</key>
 		<string>1</string>
-		<key>ストロベリーディライトフラペチーノ</key>
+		<key>クラッシュオレンジフラペチーノ</key>
 		<string>1</string>
 		<key>カフェミスト</key>
 		<string>1</string>
@@ -2774,7 +2774,7 @@
 		<string>1</string>
 		<key>コーヒージェリーアンドクリーミーバニラフラペチーノ</key>
 		<string>4</string>
-		<key>ストロベリーディライトフラペチーノ</key>
+		<key>クラッシュオレンジフラペチーノ</key>
 		<string>3</string>
 		<key>カフェミスト</key>
 		<string>1</string>
