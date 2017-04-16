@@ -768,13 +768,13 @@
 			<key>Type</key>
 			<string>Frappuccino</string>
 			<key>Name</key>
-			<string>コーヒー &amp; クリーム フラペチーノ with コーヒー クリーム スワール</string>
+			<string>アメリカン チェリーパイ フラペチーノ</string>
 			<key>Photo</key>
-			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/CoffeeCreamFrappuccino.jpg</string>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/AmericanCherryPieFrappuccino.jpg</string>
 			<key>Calorie</key>
-			<string>364</string>
+			<string>493</string>
 			<key>Price</key>
-			<string>520</string>
+			<string>640</string>
 			<key>Temperature</key>
 			<array>
 				<string>アイス</string>
@@ -855,11 +855,11 @@
 			<key>Type</key>
 			<string>Frappuccino</string>
 			<key>Name</key>
-			<string>サンシャイン マンダリン マンゴー ティー フラペチーノ</string>
+			<string>クラシックティー クリーム フラペチーノ</string>
 			<key>Photo</key>
-			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/sunshinemangofrappuccino.jpg</string>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/ClassicTeaCreamFrappuccino.jpg</string>
 			<key>Calorie</key>
-			<string>318</string>
+			<string>389</string>
 			<key>Price</key>
 			<string>570</string>
 			<key>Temperature</key>
@@ -1555,99 +1555,6 @@
 			<key>Recommend</key>
 			<array>
 				<string>ホイップクリーム</string>
-			</array>
-		</dict>
-		<dict>
-			<key>Type</key>
-			<string>Other Beverages</string>
-			<key>Name</key>
-			<string>サンシャイン マンダリン マンゴー ティー</string>
-			<key>Photo</key>
-			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/sunshinemangotea.jpg</string>
-			<key>Calorie</key>
-			<string>174</string>
-			<key>Price</key>
-			<string>390</string>
-			<key>Temperature</key>
-			<array>
-				<string>ホット</string>
-				<string>アイス</string>
-			</array>
-			<key>Size</key>
-			<array>
-				<string>Short</string>
-				<string>Tall</string>
-				<string>Grande</string>
-				<string>Venti</string>
-			</array>
-			<key>Shot</key>
-			<array>
-				<string>0</string>
-				<string>0</string>
-				<string>0</string>
-				<string>0</string>
-			</array>
-			<key>Base</key>
-			<array/>
-			<key>Syrup</key>
-			<array>
-				<string>変更なし</string>
-				<string>シロップ抜き</string>
-				<string>バニラシロップ追加</string>
-				<string>バニラシロップに変更</string>
-				<string>キャラメルシロップ追加</string>
-				<string>キャラメルシロップに変更</string>
-				<string>ヘーゼルナッツシロップ追加</string>
-				<string>ヘーゼルナッツシロップに変更</string>
-				<string>モカシロップ追加</string>
-				<string>モカシロップに変更</string>
-				<string>ホワイトモカシロップ追加</string>
-				<string>ホワイトモカシロップに変更</string>
-				<string>チャイシロップ追加</string>
-				<string>チャイシロップに変更</string>
-			</array>
-			<key>Sauce</key>
-			<array>
-				<string>変更なし</string>
-				<string>ソース抜き</string>
-				<string>チョコレートソース追加</string>
-				<string>チョコレートソースに変更</string>
-				<string>キャラメルソース追加</string>
-				<string>キャラメルソースに変更</string>
-			</array>
-			<key>Powder</key>
-			<array/>
-			<key>Jelly</key>
-			<array/>
-			<key>WhippedCream</key>
-			<array>
-				<string>なし</string>
-				<string>ホイップ追加</string>
-			</array>
-			<key>MilkCustom</key>
-			<array>
-				<string>なし</string>
-				<string>オールミルク</string>
-			</array>
-			<key>Milk</key>
-			<array>
-				<string>ミルク</string>
-				<string>ソイミルク</string>
-				<string>ノンファットミルク</string>
-				<string>低脂肪ミルク</string>
-				<string>ブラベミルク</string>
-				<string>ノンフォーム</string>
-			</array>
-			<key>Espresso</key>
-			<array>
-				<string>なし</string>
-				<string>ショット少なめ追加</string>
-				<string>ショット追加</string>
-			</array>
-			<key>Recommend</key>
-			<array>
-				<string>ソイミルク + ハチミツ</string>
-				<string>フォームミルク多め + ハチミツ</string>
 			</array>
 		</dict>
 		<dict>
@@ -2578,14 +2485,10 @@
 		<string>3</string>
 		<key>カフェミスト</key>
 		<string>1</string>
-		<key>サンシャイン マンダリン マンゴー ティー フラペチーノ</key>
+		<key>アメリカン チェリーパイ フラペチーノ</key>
 		<string>0</string>
-		<key>サンシャイン マンダリン マンゴー ティー</key>
-		<string>3</string>
-		<key>コーヒー &amp; クリーム フラペチーノ with コーヒー クリーム スワール</key>
+		<key>クラシックティー クリーム フラペチーノ</key>
 		<string>0</string>
-		<key>コーヒー &amp; クリーム ラテ</key>
-		<string>3</string>
 	</dict>
 	<key>SweetnessDic</key>
 	<dict>
@@ -2633,13 +2536,9 @@
 		<string>1</string>
 		<key>カフェミスト</key>
 		<string>1</string>
-		<key>サンシャイン マンダリン マンゴー ティー フラペチーノ</key>
-		<string>3</string>
-		<key>サンシャイン マンダリン マンゴー ティー</key>
-		<string>1</string>
-		<key>コーヒー &amp; クリーム フラペチーノ with コーヒー クリーム スワール</key>
-		<string>3</string>
-		<key>コーヒー &amp; クリーム ラテ</key>
+		<key>アメリカン チェリーパイ フラペチーノ</key>
+		<string>2</string>
+		<key>クラシックティー クリーム フラペチーノ</key>
 		<string>3</string>
 	</dict>
 	<key>PriceDic</key>
@@ -2984,14 +2883,10 @@
 		<string>フォームドピオ</string>
 		<key>スターバックス ラテ</key>
 		<string>ラテ</string>
-		<key>サンシャイン マンダリン マンゴー ティー フラペチーノ</key>
-		<string>サンシャインマンダリンマンゴー ティーフラペチーノ</string>
-		<key>サンシャイン マンダリン マンゴー ティー</key>
-		<string>サンシャインマンダリンマンゴーティー</string>
-		<key>コーヒー &amp; クリーム フラペチーノ with コーヒー クリーム スワール</key>
-		<string>コーヒー&amp;クリームフラペチーノwithコーヒークリームスワール</string>
-		<key>コーヒー &amp; クリーム ラテ</key>
-		<string>コーヒー&amp;クリームラテ</string>
+		<key>アメリカン チェリーパイ フラペチーノ</key>
+		<string>アメリカンチェリーパイフラペチーノ</string>
+		<key>クラシックティー クリーム フラペチーノ</key>
+		<string>クラシックティークリームフラペチーノ</string>
 	</dict>
 </dict>
 </plist>
