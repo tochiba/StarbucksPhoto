@@ -678,13 +678,13 @@
 			<key>Type</key>
 			<string>Frappuccino</string>
 			<key>Name</key>
-			<string>アメリカン チェリーパイ フラペチーノ</string>
+			<string>ストロベリー クリーム フラペチーノ</string>
 			<key>Photo</key>
-			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/AmericanCherryPieFrappuccino.jpg</string>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/StrawberryCreamFrappuccino.jpg</string>
 			<key>Calorie</key>
-			<string>493</string>
+			<string>335</string>
 			<key>Price</key>
-			<string>640</string>
+			<string>570</string>
 			<key>Temperature</key>
 			<array>
 				<string>アイス</string>
@@ -2395,7 +2395,7 @@
 		<string>3</string>
 		<key>カフェミスト</key>
 		<string>1</string>
-		<key>アメリカン チェリーパイ フラペチーノ</key>
+		<key>ストロベリー クリーム フラペチーノ</key>
 		<string>0</string>
 		<key>クラシックティー クリーム フラペチーノ</key>
 		<string>0</string>
@@ -2446,7 +2446,7 @@
 		<string>1</string>
 		<key>カフェミスト</key>
 		<string>1</string>
-		<key>アメリカン チェリーパイ フラペチーノ</key>
+		<key>ストロベリー クリーム フラペチーノ</key>
 		<string>2</string>
 		<key>クラシックティー クリーム フラペチーノ</key>
 		<string>3</string>
@@ -2793,8 +2793,8 @@
 		<string>フォームドピオ</string>
 		<key>スターバックス ラテ</key>
 		<string>ラテ</string>
-		<key>アメリカン チェリーパイ フラペチーノ</key>
-		<string>アメリカンチェリーパイフラペチーノ</string>
+		<key>ストロベリー クリーム フラペチーノ</key>
+		<string>ストロベリークリームフラペチーノ</string>
 		<key>クラシックティー クリーム フラペチーノ</key>
 		<string>クラシックティークリームフラペチーノ</string>
 	</dict>
