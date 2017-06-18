@@ -1471,6 +1471,86 @@
 			<key>Type</key>
 			<string>Other Beverages</string>
 			<key>Name</key>
+			<string>スターバックス リフレッシャーズ ビバレッジ クール ライム</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/RefreshersBeverageCoolLime.jpg</string>
+			<key>Calorie</key>
+			<string>42</string>
+			<key>Price</key>
+			<string>360</string>
+			<key>Temperature</key>
+			<array>
+				<string>アイス</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Short</string>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>変更なし</string>
+				<string>シロップ抜き</string>
+				<string>バニラシロップ追加</string>
+				<string>バニラシロップに変更</string>
+				<string>キャラメルシロップ追加</string>
+				<string>キャラメルシロップに変更</string>
+				<string>ヘーゼルナッツシロップ追加</string>
+				<string>ヘーゼルナッツシロップに変更</string>
+				<string>モカシロップ追加</string>
+				<string>モカシロップに変更</string>
+				<string>ホワイトモカシロップ追加</string>
+				<string>ホワイトモカシロップに変更</string>
+				<string>チャイシロップ追加</string>
+				<string>チャイシロップに変更</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>変更なし</string>
+				<string>ソース抜き</string>
+				<string>チョコレートソース追加</string>
+				<string>チョコレートソースに変更</string>
+				<string>キャラメルソース追加</string>
+				<string>キャラメルソースに変更</string>
+			</array>
+			<key>Powder</key>
+			<array/>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>なし</string>
+				<string>ホイップ追加</string>
+			</array>
+			<key>Milk</key>
+			<array/>
+			<key>Espresso</key>
+			<array>
+				<string>なし</string>
+				<string>ショット少なめ追加</string>
+				<string>ショット追加</string>
+			</array>
+			<key>Recommend</key>
+			<array>
+				<string>ソイミルク + ハチミツ</string>
+				<string>フォームミルク多め + ハチミツ</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Other Beverages</string>
+			<key>Name</key>
 			<string>コールドブリュー クリームフロート バレンシア</string>
 			<key>Photo</key>
 			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/ColdBrewCreamFloatValencia.jpg</string>
@@ -2073,9 +2153,9 @@
 			<key>Photo</key>
 			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/GreenTeaLatte.jpg</string>
 			<key>Calorie</key>
-			<string>129</string>
+			<string>169</string>
 			<key>Price</key>
-			<string>380</string>
+			<string>390</string>
 			<key>Temperature</key>
 			<array>
 				<string>ホット</string>
@@ -2561,6 +2641,8 @@
 		<string>0</string>
 		<key>コールドブリュー クリームフロート ヘーゼルナッツ</key>
 		<string>0</string>
+		<key>スターバックス リフレッシャーズ ビバレッジ クール ライム</key>
+		<string>0</string>
 	</dict>
 	<key>SweetnessDic</key>
 	<dict>
@@ -2615,6 +2697,8 @@
 		<key>コールドブリュー クリームフロート バレンシア</key>
 		<string>1</string>
 		<key>コールドブリュー クリームフロート ヘーゼルナッツ</key>
+		<string>1</string>
+		<key>スターバックス リフレッシャーズ ビバレッジ クール ライム</key>
 		<string>1</string>
 	</dict>
 	<key>PriceDic</key>
@@ -2967,6 +3051,8 @@
 		<string>コールドブリュークリームフロートバレンシア</string>
 		<key>コールドブリュー クリームフロート ヘーゼルナッツ</key>
 		<string>コールドブリュークリームフロートヘーゼルナッツ</string>
+		<key>スターバックス リフレッシャーズ ビバレッジ クール ライム</key>
+		<string>スターバックスリフレッシャーズビバレッジ クールライム</string>
 	</dict>
 </dict>
 </plist>
