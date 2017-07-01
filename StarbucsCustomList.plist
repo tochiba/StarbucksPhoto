@@ -678,11 +678,11 @@
 			<key>Type</key>
 			<string>Frappuccino</string>
 			<key>Name</key>
-			<string>チョコレート ケーキ トップ フラペチーノ with 抹茶ショット</string>
+			<string>チョコレート ケーキ トップ フラペチーノ with コーヒーショット</string>
 			<key>Photo</key>
-			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/ChocolateCakeTopFrappuccino.jpg</string>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/ChocolateCakeTopFrappuccinoWith.jpg</string>
 			<key>Calorie</key>
-			<string>541</string>
+			<string>533</string>
 			<key>Price</key>
 			<string>620</string>
 			<key>Temperature</key>
@@ -765,13 +765,13 @@
 			<key>Type</key>
 			<string>Frappuccino</string>
 			<key>Name</key>
-			<string>ストロベリー クリーム フラペチーノ</string>
+			<string>チョコレート ケーキ トップ フラペチーノ with 抹茶ショット</string>
 			<key>Photo</key>
-			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/StrawberryCreamFrappuccino.jpg</string>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/ChocolateCakeTopFrappuccino.jpg</string>
 			<key>Calorie</key>
-			<string>335</string>
+			<string>541</string>
 			<key>Price</key>
-			<string>570</string>
+			<string>620</string>
 			<key>Temperature</key>
 			<array>
 				<string>アイス</string>
@@ -1572,6 +1572,85 @@
 			<key>Size</key>
 			<array>
 				<string>Short</string>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>変更なし</string>
+				<string>シロップ抜き</string>
+				<string>バニラシロップ追加</string>
+				<string>バニラシロップに変更</string>
+				<string>キャラメルシロップ追加</string>
+				<string>キャラメルシロップに変更</string>
+				<string>ヘーゼルナッツシロップ追加</string>
+				<string>ヘーゼルナッツシロップに変更</string>
+				<string>モカシロップ追加</string>
+				<string>モカシロップに変更</string>
+				<string>ホワイトモカシロップ追加</string>
+				<string>ホワイトモカシロップに変更</string>
+				<string>チャイシロップ追加</string>
+				<string>チャイシロップに変更</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>変更なし</string>
+				<string>ソース抜き</string>
+				<string>チョコレートソース追加</string>
+				<string>チョコレートソースに変更</string>
+				<string>キャラメルソース追加</string>
+				<string>キャラメルソースに変更</string>
+			</array>
+			<key>Powder</key>
+			<array/>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>なし</string>
+				<string>ホイップ追加</string>
+			</array>
+			<key>Milk</key>
+			<array/>
+			<key>Espresso</key>
+			<array>
+				<string>なし</string>
+				<string>ショット少なめ追加</string>
+				<string>ショット追加</string>
+			</array>
+			<key>Recommend</key>
+			<array>
+				<string>ソイミルク + ハチミツ</string>
+				<string>フォームミルク多め + ハチミツ</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Other Beverages</string>
+			<key>Name</key>
+			<string>コールドブリュー コーヒー</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/ColdBrew.jpg</string>
+			<key>Calorie</key>
+			<string>7</string>
+			<key>Price</key>
+			<string>320</string>
+			<key>Temperature</key>
+			<array>
+				<string>アイス</string>
+			</array>
+			<key>Size</key>
+			<array>
 				<string>Tall</string>
 				<string>Grande</string>
 				<string>Venti</string>
@@ -2720,17 +2799,19 @@
 		<string>3</string>
 		<key>カフェミスト</key>
 		<string>1</string>
-		<key>ストロベリー クリーム フラペチーノ</key>
-		<string>0</string>
 		<key>クラシックティー クリーム フラペチーノ</key>
 		<string>0</string>
 		<key>コールドブリュー クリームフロート バレンシア</key>
 		<string>0</string>
 		<key>コールドブリュー クリームフロート ヘーゼルナッツ</key>
 		<string>0</string>
+		<key>コールドブリュー コーヒー</key>
+		<string>0</string>
 		<key>スターバックス リフレッシャーズ ビバレッジ クール ライム</key>
 		<string>0</string>
 		<key>チョコレート ケーキ トップ フラペチーノ with 抹茶ショット</key>
+		<string>0</string>
+		<key>チョコレート ケーキ トップ フラペチーノ with コーヒーショット</key>
 		<string>0</string>
 	</dict>
 	<key>SweetnessDic</key>
@@ -2779,17 +2860,19 @@
 		<string>1</string>
 		<key>カフェミスト</key>
 		<string>1</string>
-		<key>ストロベリー クリーム フラペチーノ</key>
-		<string>2</string>
 		<key>クラシックティー クリーム フラペチーノ</key>
 		<string>3</string>
 		<key>コールドブリュー クリームフロート バレンシア</key>
 		<string>1</string>
 		<key>コールドブリュー クリームフロート ヘーゼルナッツ</key>
 		<string>1</string>
+		<key>コールドブリュー コーヒー</key>
+		<string>0</string>
 		<key>スターバックス リフレッシャーズ ビバレッジ クール ライム</key>
 		<string>1</string>
 		<key>チョコレート ケーキ トップ フラペチーノ with 抹茶ショット</key>
+		<string>4</string>
+		<key>チョコレート ケーキ トップ フラペチーノ with コーヒーショット</key>
 		<string>4</string>
 	</dict>
 	<key>PriceDic</key>
@@ -3134,18 +3217,20 @@
 		<string>フォームドピオ</string>
 		<key>スターバックス ラテ</key>
 		<string>ラテ</string>
-		<key>ストロベリー クリーム フラペチーノ</key>
-		<string>ストロベリークリームフラペチーノ</string>
 		<key>クラシックティー クリーム フラペチーノ</key>
 		<string>クラシックティークリームフラペチーノ</string>
 		<key>コールドブリュー クリームフロート バレンシア</key>
 		<string>コールドブリュークリームフロートバレンシア</string>
 		<key>コールドブリュー クリームフロート ヘーゼルナッツ</key>
 		<string>コールドブリュークリームフロートヘーゼルナッツ</string>
+		<key>コールドブリュー コーヒー</key>
+		<string>コールドブリューコーヒー</string>
 		<key>スターバックス リフレッシャーズ ビバレッジ クール ライム</key>
 		<string>スターバックスリフレッシャーズビバレッジ クールライム</string>
 		<key>チョコレート ケーキ トップ フラペチーノ with 抹茶ショット</key>
 		<string>チョコレートケーキトップフラペチーノwith抹茶ショット</string>
+		<key>チョコレート ケーキ トップ フラペチーノ with コーヒーショット</key>
+		<string>チョコレートケーキトップ フラペチーノwithコーヒーショット</string>
 	</dict>
 </dict>
 </plist>
