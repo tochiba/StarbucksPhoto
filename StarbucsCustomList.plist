@@ -678,11 +678,11 @@
 			<key>Type</key>
 			<string>Frappuccino</string>
 			<key>Name</key>
-			<string>チョコレート ケーキ トップ フラペチーノ with コーヒーショット</string>
+			<string>キーライム クリーム &amp; ヨーグルト フラペチーノ</string>
 			<key>Photo</key>
-			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/ChocolateCakeTopFrappuccinoWith.jpg</string>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/YogurtFrappuccino.jpg</string>
 			<key>Calorie</key>
-			<string>533</string>
+			<string>490</string>
 			<key>Price</key>
 			<string>620</string>
 			<key>Temperature</key>
@@ -765,11 +765,11 @@
 			<key>Type</key>
 			<string>Frappuccino</string>
 			<key>Name</key>
-			<string>チョコレート ケーキ トップ フラペチーノ with 抹茶ショット</string>
+			<string>チョコレート ケーキ トップ フラペチーノ with ストロベリーショット</string>
 			<key>Photo</key>
-			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/ChocolateCakeTopFrappuccino.jpg</string>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/ChocolateCakeTopFrappuccinoWithStrawberry.jpg</string>
 			<key>Calorie</key>
-			<string>541</string>
+			<string>525</string>
 			<key>Price</key>
 			<string>620</string>
 			<key>Temperature</key>
@@ -1552,6 +1552,86 @@
 			<key>Recommend</key>
 			<array>
 				<string>ホイップクリーム</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Other Beverages</string>
+			<key>Name</key>
+			<string>シェイクン ウォーターメロン &amp; パッション ティー</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/Watermelon.jpg</string>
+			<key>Calorie</key>
+			<string>42</string>
+			<key>Price</key>
+			<string>360</string>
+			<key>Temperature</key>
+			<array>
+				<string>アイス</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Short</string>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>変更なし</string>
+				<string>シロップ抜き</string>
+				<string>バニラシロップ追加</string>
+				<string>バニラシロップに変更</string>
+				<string>キャラメルシロップ追加</string>
+				<string>キャラメルシロップに変更</string>
+				<string>ヘーゼルナッツシロップ追加</string>
+				<string>ヘーゼルナッツシロップに変更</string>
+				<string>モカシロップ追加</string>
+				<string>モカシロップに変更</string>
+				<string>ホワイトモカシロップ追加</string>
+				<string>ホワイトモカシロップに変更</string>
+				<string>チャイシロップ追加</string>
+				<string>チャイシロップに変更</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>変更なし</string>
+				<string>ソース抜き</string>
+				<string>チョコレートソース追加</string>
+				<string>チョコレートソースに変更</string>
+				<string>キャラメルソース追加</string>
+				<string>キャラメルソースに変更</string>
+			</array>
+			<key>Powder</key>
+			<array/>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>なし</string>
+				<string>ホイップ追加</string>
+			</array>
+			<key>Milk</key>
+			<array/>
+			<key>Espresso</key>
+			<array>
+				<string>なし</string>
+				<string>ショット少なめ追加</string>
+				<string>ショット追加</string>
+			</array>
+			<key>Recommend</key>
+			<array>
+				<string>ソイミルク + ハチミツ</string>
+				<string>フォームミルク多め + ハチミツ</string>
 			</array>
 		</dict>
 		<dict>
@@ -2809,9 +2889,11 @@
 		<string>0</string>
 		<key>スターバックス リフレッシャーズ ビバレッジ クール ライム</key>
 		<string>0</string>
-		<key>チョコレート ケーキ トップ フラペチーノ with 抹茶ショット</key>
+		<key>チョコレート ケーキ トップ フラペチーノ with ストロベリーショット</key>
 		<string>0</string>
-		<key>チョコレート ケーキ トップ フラペチーノ with コーヒーショット</key>
+		<key>キーライム クリーム &amp; ヨーグルト フラペチーノ</key>
+		<string>0</string>
+		<key>シェイクン ウォーターメロン &amp; パッション ティー</key>
 		<string>0</string>
 	</dict>
 	<key>SweetnessDic</key>
@@ -2870,10 +2952,12 @@
 		<string>0</string>
 		<key>スターバックス リフレッシャーズ ビバレッジ クール ライム</key>
 		<string>1</string>
-		<key>チョコレート ケーキ トップ フラペチーノ with 抹茶ショット</key>
+		<key>チョコレート ケーキ トップ フラペチーノ with ストロベリーショット</key>
 		<string>4</string>
-		<key>チョコレート ケーキ トップ フラペチーノ with コーヒーショット</key>
-		<string>4</string>
+		<key>キーライム クリーム &amp; ヨーグルト フラペチーノ</key>
+		<string>3</string>
+		<key>シェイクン ウォーターメロン &amp; パッション ティー</key>
+		<string>2</string>
 	</dict>
 	<key>PriceDic</key>
 	<dict>
@@ -3227,10 +3311,12 @@
 		<string>コールドブリューコーヒー</string>
 		<key>スターバックス リフレッシャーズ ビバレッジ クール ライム</key>
 		<string>スターバックスリフレッシャーズビバレッジ クールライム</string>
-		<key>チョコレート ケーキ トップ フラペチーノ with 抹茶ショット</key>
-		<string>チョコレートケーキトップフラペチーノwith抹茶ショット</string>
-		<key>チョコレート ケーキ トップ フラペチーノ with コーヒーショット</key>
-		<string>チョコレートケーキトップ フラペチーノwithコーヒーショット</string>
+		<key>チョコレート ケーキ トップ フラペチーノ with ストロベリーショット</key>
+		<string>チョコレートケーキトップフラペチーノwithストロベリーショット</string>
+		<key>キーライム クリーム &amp; ヨーグルト フラペチーノ</key>
+		<string>キーライムクリーム&amp;ヨーグルトフラペチーノ</string>
+		<key>シェイクン ウォーターメロン &amp; パッション ティー</key>
+		<string>シェイクンウォーターメロン&amp;パッション ティー</string>
 	</dict>
 </dict>
 </plist>
