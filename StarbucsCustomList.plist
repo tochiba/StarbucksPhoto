@@ -1185,7 +1185,10 @@
 				<string>キャラメルソースに変更</string>
 			</array>
 			<key>Powder</key>
-			<array/>
+			<array>
+				<string>追加なし</string>
+				<string>チョコレートチップ増量</string>
+			</array>
 			<key>Jelly</key>
 			<array/>
 			<key>Milk</key>
@@ -1268,7 +1271,10 @@
 				<string>キャラメルソースに変更</string>
 			</array>
 			<key>Powder</key>
-			<array/>
+			<array>
+				<string>追加なし</string>
+				<string>チョコレートチップ増量</string>
+			</array>
 			<key>Jelly</key>
 			<array/>
 			<key>Milk</key>
@@ -2850,6 +2856,8 @@
 		<string>50</string>
 		<key>チョコレートチップ追加</key>
 		<string>50</string>
+		<key>チョコレートチップ増量</key>
+		<string>0</string>
 		<key>コーヒーベース増量</key>
 		<string>50</string>
 		<key>チョコレートソース追加</key>
@@ -2945,6 +2953,8 @@
 		<string>5</string>
 		<key>チョコレートチップ</key>
 		<string>30</string>
+		<key>チョコレートチップ増量</key>
+		<string>15</string>
 		<key>コーヒーベース増量</key>
 		<string>10</string>
 		<key>チョコレートソース追加</key>
@@ -3046,6 +3056,8 @@
 		<string>アドショット</string>
 		<key>チョコレートチップ</key>
 		<string>アドチョコレートチップ</string>
+		<key>チョコレートチップ増量</key>
+		<string>エクストラチップ</string>
 		<key>コーヒーベース増量</key>
 		<string>エクストラコーヒー</string>
 		<key>チョコレートソース追加</key>
