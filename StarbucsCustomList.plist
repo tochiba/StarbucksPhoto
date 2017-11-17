@@ -1004,7 +1004,10 @@
 				<string>キャラメルソースに変更</string>
 			</array>
 			<key>Powder</key>
-			<array/>
+			<array>
+				<string>追加なし</string>
+				<string>チョコレートチップ</string>
+			</array>
 			<key>Jelly</key>
 			<array/>
 			<key>Milk</key>
