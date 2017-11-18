@@ -355,6 +355,7 @@
 				<string>変更なし</string>
 				<string>ショット少なめ</string>
 				<string>ショット追加</string>
+				<string>ディカフェ</string>
 			</array>
 			<key>Recommend</key>
 			<array>
@@ -438,6 +439,7 @@
 				<string>変更なし</string>
 				<string>ショット少なめ</string>
 				<string>ショット追加</string>
+				<string>ディカフェ</string>
 			</array>
 			<key>Recommend</key>
 			<array/>
@@ -522,6 +524,7 @@
 				<string>変更なし</string>
 				<string>ショット少なめ</string>
 				<string>ショット追加</string>
+				<string>ディカフェ</string>
 			</array>
 			<key>Recommend</key>
 			<array>
@@ -692,6 +695,7 @@
 				<string>変更なし</string>
 				<string>ショット少なめ</string>
 				<string>ショット追加</string>
+				<string>ディカフェ</string>
 			</array>
 			<key>Recommend</key>
 			<array>
@@ -859,6 +863,7 @@
 				<string>変更なし</string>
 				<string>ショット少なめ</string>
 				<string>ショット追加</string>
+				<string>ディカフェ</string>
 			</array>
 			<key>Recommend</key>
 			<array>
@@ -940,6 +945,7 @@
 				<string>変更なし</string>
 				<string>ショット少なめ</string>
 				<string>ショット追加</string>
+				<string>ディカフェ</string>
 			</array>
 			<key>Recommend</key>
 			<array/>
@@ -2915,6 +2921,8 @@
 		<string>50</string>
 		<key>ノンフォーム</key>
 		<string>0</string>
+		<key>ディカフェ</key>
+		<string>50</string>
 	</dict>
 	<key>CalorieDic</key>
 	<dict>
@@ -3012,6 +3020,8 @@
 		<string>0</string>
 		<key>ノンフォーム</key>
 		<string>0</string>
+		<key>ディカフェ</key>
+		<string>0</string>
 	</dict>
 	<key>ReadingDic</key>
 	<dict>
@@ -3051,6 +3061,8 @@
 		<string>エクストラホイップ</string>
 		<key>ホイップ追加</key>
 		<string>アドホイップ</string>
+		<key>ディカフェ</key>
+		<string>ディカフェ</string>
 		<key>ショット少なめ</key>
 		<string>リストレット</string>
 		<key>ショット少なめ追加</key>
