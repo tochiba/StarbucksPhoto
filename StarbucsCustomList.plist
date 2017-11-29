@@ -8,6 +8,96 @@
 			<key>Type</key>
 			<string>Espresso Beverages</string>
 			<key>Name</key>
+			<string>キャンディ ピスタチオ</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/CandyPistachio.jpg</string>
+			<key>Calorie</key>
+			<string>249</string>
+			<key>Price</key>
+			<string>430</string>
+			<key>Temperature</key>
+			<array>
+				<string>アイス</string>
+				<string>ホット</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Short</string>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>1</string>
+				<string>1</string>
+				<string>2</string>
+				<string>3</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>変更なし</string>
+				<string>シロップ抜き</string>
+				<string>バニラシロップ追加</string>
+				<string>バニラシロップに変更</string>
+				<string>キャラメルシロップ追加</string>
+				<string>キャラメルシロップに変更</string>
+				<string>ヘーゼルナッツシロップ追加</string>
+				<string>ヘーゼルナッツシロップに変更</string>
+				<string>モカシロップ追加</string>
+				<string>モカシロップに変更</string>
+				<string>ホワイトモカシロップ追加</string>
+				<string>ホワイトモカシロップに変更</string>
+				<string>チャイシロップ追加</string>
+				<string>チャイシロップに変更</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>変更なし</string>
+				<string>ソース抜き</string>
+				<string>チョコレートソース追加</string>
+				<string>チョコレートソースに変更</string>
+				<string>キャラメルソース追加</string>
+				<string>キャラメルソースに変更</string>
+			</array>
+			<key>Powder</key>
+			<array/>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>なし</string>
+				<string>ホイップ追加</string>
+			</array>
+			<key>Milk</key>
+			<array>
+				<string>ミルク</string>
+				<string>ソイミルク</string>
+				<string>ノンファットミルク</string>
+				<string>低脂肪ミルク</string>
+				<string>ブラベミルク</string>
+				<string>ノンフォーム</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>変更なし</string>
+				<string>ショット少なめ</string>
+				<string>ショット追加</string>
+			</array>
+			<key>Recommend</key>
+			<array>
+				<string>バニラシロップ</string>
+				<string>ショット追加</string>
+				<string>ホイップ追加</string>
+				<string>ヘーゼルナッツシロップ</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Espresso Beverages</string>
+			<key>Name</key>
 			<string>クリスマス ラズベリー モカ</string>
 			<key>Photo</key>
 			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/ChristmasRaspberryMocha.jpg</string>
@@ -949,6 +1039,95 @@
 			</array>
 			<key>Recommend</key>
 			<array/>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Frappuccino</string>
+			<key>Name</key>
+			<string>キャンディ ピスタチオ フラペチーノ</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/CandyPistachioFrappuccino.jpg</string>
+			<key>Calorie</key>
+			<string>416</string>
+			<key>Price</key>
+			<string>570</string>
+			<key>Temperature</key>
+			<array>
+				<string>アイス</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>Base</key>
+			<array>
+				<string>変更なし</string>
+				<string>コーヒーベース増量</string>
+			</array>
+			<key>Syrup</key>
+			<array>
+				<string>変更なし</string>
+				<string>シロップ抜き</string>
+				<string>バニラシロップ追加</string>
+				<string>バニラシロップに変更</string>
+				<string>キャラメルシロップ追加</string>
+				<string>キャラメルシロップに変更</string>
+				<string>ヘーゼルナッツシロップ追加</string>
+				<string>ヘーゼルナッツシロップに変更</string>
+				<string>モカシロップ追加</string>
+				<string>モカシロップに変更</string>
+				<string>ホワイトモカシロップ追加</string>
+				<string>ホワイトモカシロップに変更</string>
+				<string>チャイシロップ追加</string>
+				<string>チャイシロップに変更</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>変更なし</string>
+				<string>ソース抜き</string>
+				<string>チョコレートソース追加</string>
+				<string>チョコレートソースに変更</string>
+				<string>キャラメルソース追加</string>
+				<string>キャラメルソースに変更</string>
+			</array>
+			<key>Powder</key>
+			<array>
+				<string>追加なし</string>
+				<string>チョコレートチップ</string>
+			</array>
+			<key>Jelly</key>
+			<array/>
+			<key>Milk</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>変更なし</string>
+				<string>ホイップ増量</string>
+				<string>ホイップなし</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>ショットなし</string>
+				<string>ショット少なめ追加</string>
+				<string>ショット追加</string>
+			</array>
+			<key>Recommend</key>
+			<array>
+				<string>ヘーゼルナッツシロップ</string>
+				<string>ホイップなし</string>
+				<string>チョコレートソース</string>
+				<string>パウダー多め</string>
+				<string>コーヒーベース増量</string>
+			</array>
 		</dict>
 		<dict>
 			<key>Type</key>
@@ -2763,6 +2942,10 @@
 		<string>1</string>
 		<key>クリスマス ラズベリー モカ フラペチーノ</key>
 		<string>0</string>
+		<key>キャンディ ピスタチオ</key>
+		<string>1</string>
+		<key>キャンディ ピスタチオ フラペチーノ</key>
+		<string>0</string>
 	</dict>
 	<key>SweetnessDic</key>
 	<dict>
@@ -2821,6 +3004,10 @@
 		<key>クリスマス ラズベリー モカ</key>
 		<string>2</string>
 		<key>クリスマス ラズベリー モカ フラペチーノ</key>
+		<string>2</string>
+		<key>キャンディ ピスタチオ</key>
+		<string>2</string>
+		<key>キャンディ ピスタチオ フラペチーノ</key>
 		<string>2</string>
 	</dict>
 	<key>PriceDic</key>
@@ -3207,6 +3394,10 @@
 		<string>クリスマスラズベリーモカ</string>
 		<key>クリスマス ラズベリー モカ フラペチーノ</key>
 		<string>クリスマスラズベリーモカフラペチーノ</string>
+		<key>キャンディ ピスタチオ</key>
+		<string>キャンディピスタチオ</string>
+		<key>キャンディ ピスタチオ フラペチーノ</key>
+		<string>キャンディピスタチオフラペチーノ</string>
 	</dict>
 </dict>
 </plist>
