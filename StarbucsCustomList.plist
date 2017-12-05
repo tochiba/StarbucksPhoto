@@ -40,6 +40,8 @@
 			<array>
 				<string>変更なし</string>
 				<string>シロップ抜き</string>
+				<string>シロップ多め</string>
+				<string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -129,7 +131,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -219,7 +223,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -309,7 +315,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -399,7 +407,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -490,7 +500,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -568,7 +580,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -656,7 +670,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -741,7 +757,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -827,7 +845,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -911,7 +931,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>キャラメルシロップ追加</string>
 				<string>キャラメルシロップに変更</string>
 				<string>ヘーゼルナッツシロップ追加</string>
@@ -996,7 +1018,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -1076,7 +1100,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -1165,7 +1191,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -1251,7 +1279,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -1349,7 +1379,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -1435,7 +1467,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -1520,7 +1554,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>ヘーゼルナッツシロップ追加</string>
@@ -1610,7 +1646,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -1706,7 +1744,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>キャラメルシロップ追加</string>
 				<string>キャラメルシロップに変更</string>
 				<string>ヘーゼルナッツシロップ追加</string>
@@ -1795,7 +1835,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -1877,7 +1919,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -1956,7 +2000,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -2037,7 +2083,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -2130,7 +2178,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -2215,7 +2265,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -2304,7 +2356,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -2390,7 +2444,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -2476,7 +2532,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -2568,7 +2626,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -2657,7 +2717,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -2746,7 +2808,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>ヘーゼルナッツシロップ追加</string>
@@ -2831,7 +2895,9 @@
 			<key>Syrup</key>
 			<array>
 				<string>変更なし</string>
-				<string>シロップ抜き</string>
+                <string>シロップ抜き</string>
+                <string>シロップ多め</string>
+                <string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -3020,6 +3086,10 @@
 		<string>0</string>
 		<key>シロップ抜き</key>
 		<string>0</string>
+        <key>シロップ多め</key>
+        <string>0</string>
+        <key>シロップ少なめ</key>
+        <string>0</string>
 		<key>シロップ変更</key>
 		<string>0</string>
 		<key>シロップなし</key>
@@ -3121,6 +3191,10 @@
 		<string>0</string>
 		<key>シロップ抜き</key>
 		<string>-20</string>
+        <key>シロップ多め</key>
+        <string>10</string>
+        <key>シロップ少なめ</key>
+        <string>-10</string>
 		<key>シロップ変更</key>
 		<string>0</string>
 		<key>シロップなし</key>
@@ -3226,6 +3300,10 @@
 		<string></string>
 		<key>シロップ抜き</key>
 		<string>ノンシロップ</string>
+        <key>シロップ多め</key>
+        <string>エクストラシロップ</string>
+        <key>シロップ少なめ</key>
+        <string>ライトシロップ</string>
 		<key>シロップ変更</key>
 		<string>チェンジシロップ</string>
 		<key>シロップなし</key>
