@@ -59,6 +59,8 @@
 			<array>
 				<string>変更なし</string>
 				<string>ソース抜き</string>
+				<string>ソース多め</string>
+				<string>ソース少なめ</string>
 				<string>チョコレートソース追加</string>
 				<string>チョコレートソースに変更</string>
 				<string>キャラメルソース追加</string>
@@ -151,8 +153,6 @@
 			<array>
 				<string>変更なし</string>
 				<string>ソース抜き</string>
-				<string>ソース多め</string>
-				<string>ソース少なめ</string>
 				<string>ソース多め</string>
 				<string>ソース少なめ</string>
 				<string>チョコレートソース追加</string>
