@@ -19,6 +19,8 @@
 			<array>
 				<string>アイス</string>
 				<string>ホット</string>
+				<string>ライトホット</string>
+				<string>エクストラホット</string>
 			</array>
 			<key>Size</key>
 			<array>
