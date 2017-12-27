@@ -2706,6 +2706,10 @@
 		<string>2</string>
 		<key>抹茶 フルーティ マスカルポーネ フラペチーノ</key>
 		<string>0</string>
+		<key>ブラックティー</key>
+		<string>0</string>
+		<key>パッションティー</key>
+		<string>0</string>
 	</dict>
 	<key>SweetnessDic</key>
 	<dict>
@@ -2761,6 +2765,10 @@
 		<string>3</string>
 		<key>抹茶 フルーティ マスカルポーネ フラペチーノ</key>
 		<string>3</string>
+		<key>ブラックティー</key>
+		<string>0</string>
+		<key>パッションティー</key>
+		<string>0</string>
 	</dict>
 	<key>PriceDic</key>
 	<dict>
