@@ -1,0 +1,2516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ItemArray</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>Espresso Beverages</string>
+			<key>Name</key>
+			<string>Starbucks Latte</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/StarbucksLatte.jpg</string>
+			<key>Calorie</key>
+			<string>148</string>
+			<key>Price</key>
+			<string>330</string>
+			<key>Temperature</key>
+			<array>
+				<string>Ice</string>
+				<string>Hot</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Short</string>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>1</string>
+				<string>1</string>
+				<string>2</string>
+				<string>3</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>more syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add caramel syrup</string>
+				<string>Change to caramel syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>Add mocha syrup</string>
+				<string>Change to mocha syrup</string>
+				<string>White mocha syrup addition</string>
+				<string>Change to white mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>Powder</key>
+			<array/>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>None</string>
+				<string>Whip addition</string>
+			</array>
+			<key>Milk</key>
+			<array>
+				<string>Milk</string>
+				<string>Soy milk</string>
+				<string>Non-fat milk</string>
+				<string>Low fat milk</string>
+				<string>Bravemilk</string>
+				<string>Non form</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>No change</string>
+				<string>Less shot</string>
+				<string>Add shot</string>
+				<string>Decafe</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Espresso Beverages</string>
+			<key>Name</key>
+			<string>Soy Latte</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/SoyLatte.jpg</string>
+			<key>Calorie</key>
+			<string>141</string>
+			<key>Price</key>
+			<string>380</string>
+			<key>Temperature</key>
+			<array>
+				<string>Ice</string>
+				<string>Hot</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Short</string>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>1</string>
+				<string>1</string>
+				<string>2</string>
+				<string>3</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>more syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add caramel syrup</string>
+				<string>Change to caramel syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>Add mocha syrup</string>
+				<string>Change to mocha syrup</string>
+				<string>White mocha syrup addition</string>
+				<string>Change to white mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>Powder</key>
+			<array/>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>None</string>
+				<string>Whip addition</string>
+			</array>
+			<key>Milk</key>
+			<array/>
+			<key>Espresso</key>
+			<array>
+				<string>No change</string>
+				<string>Less shot</string>
+				<string>Add shot</string>
+				<string>Decafe</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Espresso Beverages</string>
+			<key>Name</key>
+			<string>Cappuccino</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/Cappuccino.jpg</string>
+			<key>Calorie</key>
+			<string>044</string>
+			<key>Price</key>
+			<string>330</string>
+			<key>Temperature</key>
+			<array>
+				<string>Hot</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Short</string>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>1</string>
+				<string>1</string>
+				<string>2</string>
+				<string>3</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>more syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add caramel syrup</string>
+				<string>Change to caramel syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>Add mocha syrup</string>
+				<string>Change to mocha syrup</string>
+				<string>White mocha syrup addition</string>
+				<string>Change to white mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>Powder</key>
+			<array/>
+			<key>Jelly</key>
+			<array/>
+			<key>Milk</key>
+			<array>
+				<string>Milk</string>
+				<string>Soy milk</string>
+				<string>Non-fat milk</string>
+				<string>Low fat milk</string>
+				<string>Bravemilk</string>
+				<string>Non form</string>
+			</array>
+			<key>WhippedCream</key>
+			<array>
+				<string>None</string>
+				<string>Whip addition</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>No change</string>
+				<string>Less shot</string>
+				<string>Add shot</string>
+				<string>Decafe</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Espresso Beverages</string>
+			<key>Name</key>
+			<string>Cafe mist</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/CafeMist.jpg</string>
+			<key>Calorie</key>
+			<string>060</string>
+			<key>Price</key>
+			<string>320</string>
+			<key>Temperature</key>
+			<array>
+				<string>Hot</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Short</string>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>1</string>
+				<string>1</string>
+				<string>2</string>
+				<string>3</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>more syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add caramel syrup</string>
+				<string>Change to caramel syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>Add mocha syrup</string>
+				<string>Change to mocha syrup</string>
+				<string>White mocha syrup addition</string>
+				<string>Change to white mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>Powder</key>
+			<array/>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>None</string>
+				<string>Whip addition</string>
+			</array>
+			<key>Milk</key>
+			<array>
+				<string>Milk</string>
+				<string>Soy milk</string>
+				<string>Non-fat milk</string>
+				<string>Low fat milk</string>
+				<string>Bravemilk</string>
+				<string>Non form</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>No change</string>
+				<string>Less shot</string>
+				<string>Add shot</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Espresso Beverages</string>
+			<key>Name</key>
+			<string>Cafe Mocha</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/CafeMocha.jpg</string>
+			<key>Calorie</key>
+			<string>118</string>
+			<key>Price</key>
+			<string>390</string>
+			<key>Temperature</key>
+			<array>
+				<string>Ice</string>
+				<string>Hot</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Short</string>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>1</string>
+				<string>1</string>
+				<string>2</string>
+				<string>3</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>More syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add caramel syrup</string>
+				<string>Change to caramel syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>White mocha syrup addition</string>
+				<string>Change to white mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>Powder</key>
+			<array/>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>None</string>
+				<string>Whip addition</string>
+			</array>
+			<key>Milk</key>
+			<array>
+				<string>Milk</string>
+				<string>Soy milk</string>
+				<string>Non-fat milk</string>
+				<string>Low fat milk</string>
+				<string>Bravemilk</string>
+				<string>Non form</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>No change</string>
+				<string>Less shot</string>
+				<string>Add shot</string>
+				<string>Decafe</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Espresso Beverages</string>
+			<key>Name</key>
+			<string>White mocha</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/WhiteMocha.jpg</string>
+			<key>Calorie</key>
+			<string>131</string>
+			<key>Price</key>
+			<string>390</string>
+			<key>Temperature</key>
+			<array>
+				<string>Ice</string>
+				<string>Hot</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Short</string>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>1</string>
+				<string>1</string>
+				<string>2</string>
+				<string>3</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>More syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add caramel syrup</string>
+				<string>Change to caramel syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>Add mocha syrup</string>
+				<string>Change to mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>Powder</key>
+			<array/>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>No change</string>
+				<string>Whip amount increase</string>
+				<string>No whip</string>
+			</array>
+			<key>Milk</key>
+			<array>
+				<string>Milk</string>
+				<string>Soy milk</string>
+				<string>Non-fat milk</string>
+				<string>Low fat milk</string>
+				<string>Bravemilk</string>
+				<string>Non form</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>No change</string>
+				<string>Less shot</string>
+				<string>Add shot</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Caramel Machiatoart</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/CaramelMacchiato.jpg</string>
+			<key>Type</key>
+			<string>Espresso Beverages</string>
+			<key>Calorie</key>
+			<string>100</string>
+			<key>Price</key>
+			<string>380</string>
+			<key>Temperature</key>
+			<array>
+				<string>Ice</string>
+				<string>Hot</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Short</string>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>1</string>
+				<string>1</string>
+				<string>2</string>
+				<string>3</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>More syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add caramel syrup</string>
+				<string>Change to caramel syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>Add mocha syrup</string>
+				<string>Change to mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>Powder</key>
+			<array/>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>None</string>
+				<string>Whip addition</string>
+			</array>
+			<key>Milk</key>
+			<array>
+				<string>Milk</string>
+				<string>Soy milk</string>
+				<string>Non-fat milk</string>
+				<string>Low fat milk</string>
+				<string>Bravemilk</string>
+				<string>Non form</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>No change</string>
+				<string>Less shot</string>
+				<string>Add shot</string>
+				<string>Decafe</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Cafe Americano</string>
+			<key>Type</key>
+			<string>Espresso Beverages</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/CafeAmericano.jpg</string>
+			<key>Calorie</key>
+			<string>005</string>
+			<key>Price</key>
+			<string>300</string>
+			<key>Temperature</key>
+			<array>
+				<string>Ice</string>
+				<string>Hot</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Short</string>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>1</string>
+				<string>2</string>
+				<string>3</string>
+				<string>4</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>more syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add caramel syrup</string>
+				<string>Change to caramel syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>Add mocha syrup</string>
+				<string>Change to mocha syrup</string>
+				<string>White mocha syrup addition</string>
+				<string>Change to white mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>Powder</key>
+			<array/>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>None</string>
+				<string>Whip addition</string>
+			</array>
+			<key>Milk</key>
+			<array/>
+			<key>Espresso</key>
+			<array>
+				<string>No change</string>
+				<string>Less shot</string>
+				<string>Add shot</string>
+				<string>Decafe</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Frappuccino</string>
+			<key>Name</key>
+			<string>Matcha cream cream Frappuccino</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/GreenTeaCreamFrappuccino.jpg</string>
+			<key>Calorie</key>
+			<string>256</string>
+			<key>Price</key>
+			<string>470</string>
+			<key>Temperature</key>
+			<array>
+				<string>Ice</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>more syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add caramel syrup</string>
+				<string>Change to caramel syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>Add mocha syrup</string>
+				<string>Change to mocha syrup</string>
+				<string>White mocha syrup addition</string>
+				<string>Change to white mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>ExtraPowder</key>
+			<array>
+				<string>No addition</string>
+				<string>Extra powder</string>
+			</array>
+			<key>Powder</key>
+			<array>
+				<string>No addition</string>
+				<string>Chocolate chip</string>
+			</array>
+			<key>Jelly</key>
+			<array/>
+			<key>Milk</key>
+			<array>
+				<string>Milk</string>
+				<string>Soy milk</string>
+				<string>Non-fat milk</string>
+				<string>Low fat milk</string>
+				<string>Bravemilk</string>
+				<string>Non form</string>
+			</array>
+			<key>WhippedCream</key>
+			<array>
+				<string>No change</string>
+				<string>Whip amount increase</string>
+				<string>No whip</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>None</string>
+				<string>Add less shot</string>
+				<string>Add shot</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Frappuccino</string>
+			<key>Name</key>
+			<string>Dark mocha chips Frappuccino</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/DarkMochaChipFrappuccino.jpg</string>
+			<key>Calorie</key>
+			<string>268</string>
+			<key>Price</key>
+			<string>490</string>
+			<key>Temperature</key>
+			<array>
+				<string>Ice</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>Base</key>
+			<array>
+				<string>No change</string>
+				<string>Coffee base increment</string>
+			</array>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>more syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add caramel syrup</string>
+				<string>Change to caramel syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>Add mocha syrup</string>
+				<string>Change to mocha syrup</string>
+				<string>White mocha syrup addition</string>
+				<string>Change to white mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>Powder</key>
+			<array>
+				<string>None</string>
+				<string>Chocolate chip addition</string>
+			</array>
+			<key>Jelly</key>
+			<array/>
+			<key>Milk</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>No change</string>
+				<string>Whip amount increase</string>
+				<string>No whip</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>None</string>
+				<string>Add less shot</string>
+				<string>Add shot</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Frappuccino</string>
+			<key>Name</key>
+			<string>Dark Mocha Chip Cream Frappuccino</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/DarkMochaChipCreamFrappuccino.jpg</string>
+			<key>Calorie</key>
+			<string>251</string>
+			<key>Price</key>
+			<string>490</string>
+			<key>Temperature</key>
+			<array>
+				<string>Ice</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>more syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add caramel syrup</string>
+				<string>Change to caramel syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>Add mocha syrup</string>
+				<string>Change to mocha syrup</string>
+				<string>White mocha syrup addition</string>
+				<string>Change to white mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>Powder</key>
+			<array>
+				<string>None</string>
+				<string>Chocolate chip addition</string>
+			</array>
+			<key>Jelly</key>
+			<array/>
+			<key>Milk</key>
+			<array>
+				<string>Milk</string>
+				<string>Soy milk</string>
+				<string>Non-fat milk</string>
+				<string>Low fat milk</string>
+				<string>Bravemilk</string>
+				<string>Non form</string>
+			</array>
+			<key>WhippedCream</key>
+			<array>
+				<string>No change</string>
+				<string>Whip amount increase</string>
+				<string>No whip</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>None</string>
+				<string>Add less shot</string>
+				<string>Add shot</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Frappuccino</string>
+			<key>Name</key>
+			<string>Caramel Frappuccino</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/CaramelFrappuccino.jpg</string>
+			<key>Calorie</key>
+			<string>223</string>
+			<key>Price</key>
+			<string>470</string>
+			<key>Temperature</key>
+			<array>
+				<string>Ice</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>More syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>Add mocha syrup</string>
+				<string>Change to mocha syrup</string>
+				<string>White mocha syrup addition</string>
+				<string>Change to white mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>Powder</key>
+			<array>
+				<string>No addition</string>
+				<string>Chocolate chip</string>
+			</array>
+			<key>Base</key>
+			<array>
+				<string>No change</string>
+				<string>Coffee base increment</string>
+			</array>
+			<key>Jelly</key>
+			<array/>
+			<key>Milk</key>
+			<array>
+				<string>Milk</string>
+				<string>Soy milk</string>
+				<string>Non-fat milk</string>
+				<string>Low fat milk</string>
+				<string>Bravemilk</string>
+				<string>Non form</string>
+			</array>
+			<key>WhippedCream</key>
+			<array>
+				<string>No change</string>
+				<string>Whip amount increase</string>
+				<string>No whip</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>None</string>
+				<string>Add less shot</string>
+				<string>Add shot</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Frappuccino</string>
+			<key>Name</key>
+			<string>Coffee Frappuccino</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/CoffeeFrappuccino.jpg</string>
+			<key>Calorie</key>
+			<string>118</string>
+			<key>Price</key>
+			<string>420</string>
+			<key>Temperature</key>
+			<array>
+				<string>Ice</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>more syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add caramel syrup</string>
+				<string>Change to caramel syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>Add mocha syrup</string>
+				<string>Change to mocha syrup</string>
+				<string>White mocha syrup addition</string>
+				<string>Change to white mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>Powder</key>
+			<array>
+				<string>None</string>
+				<string>Chocolate chip addition</string>
+			</array>
+			<key>Base</key>
+			<array>
+				<string>No change</string>
+				<string>Coffee base increment</string>
+			</array>
+			<key>Jelly</key>
+			<array/>
+			<key>Milk</key>
+			<array>
+				<string>Milk</string>
+				<string>Soy milk</string>
+				<string>Non-fat milk</string>
+				<string>Low fat milk</string>
+				<string>Bravemilk</string>
+				<string>Non form</string>
+			</array>
+			<key>WhippedCream</key>
+			<array>
+				<string>None</string>
+				<string>Whip addition</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>None</string>
+				<string>Add less shot</string>
+				<string>Add shot</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Frappuccino</string>
+			<key>Name</key>
+			<string>Vanilla cream Frappuccino</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/VanillaCreamFrappuccino.jpg</string>
+			<key>Calorie</key>
+			<string>188</string>
+			<key>Price</key>
+			<string>470</string>
+			<key>Temperature</key>
+			<array>
+				<string>Ice</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>more syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add caramel syrup</string>
+				<string>Change to caramel syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>Add mocha syrup</string>
+				<string>Change to mocha syrup</string>
+				<string>White mocha syrup addition</string>
+				<string>Change to white mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>Powder</key>
+			<array>
+				<string>No addition</string>
+				<string>Chocolate chip</string>
+			</array>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>None</string>
+				<string>Whip amount increase</string>
+				<string>No whip</string>
+			</array>
+			<key>Milk</key>
+			<array>
+				<string>Milk</string>
+				<string>Soy milk</string>
+				<string>Non-fat milk</string>
+				<string>Low fat milk</string>
+				<string>Bravemilk</string>
+				<string>Non form</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>None</string>
+				<string>Add less shot</string>
+				<string>Add shot</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Frappuccino</string>
+			<key>Name</key>
+			<string>Mango Passion Tea Frappuccino</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/MangoPassionTeaFrappuccino.jpg</string>
+			<key>Calorie</key>
+			<string>102</string>
+			<key>Price</key>
+			<string>450</string>
+			<key>Temperature</key>
+			<array>
+				<string>Ice</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>more syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add caramel syrup</string>
+				<string>Change to caramel syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>Add mocha syrup</string>
+				<string>Change to mocha syrup</string>
+				<string>White mocha syrup addition</string>
+				<string>Change to white mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>Powder</key>
+			<array>
+				<string>No addition</string>
+				<string>Chocolate chip</string>
+			</array>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>None</string>
+				<string>Whip addition</string>
+			</array>
+			<key>Milk</key>
+			<array/>
+			<key>Espresso</key>
+			<array>
+				<string>None</string>
+				<string>Add less shot</string>
+				<string>Add shot</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Other Beverages</string>
+			<key>Name</key>
+			<string>Chai tea Latte</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/ChaiTeaLatte.jpg</string>
+			<key>Calorie</key>
+			<string>090</string>
+			<key>Price</key>
+			<string>370</string>
+			<key>Temperature</key>
+			<array>
+				<string>Ice</string>
+				<string>Hot</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Short</string>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>more syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add caramel syrup</string>
+				<string>Change to caramel syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>Add mocha syrup</string>
+				<string>Change to mocha syrup</string>
+				<string>White mocha syrup addition</string>
+				<string>Change to white mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>Powder</key>
+			<array/>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>None</string>
+				<string>Whip addition</string>
+			</array>
+			<key>Milk</key>
+			<array>
+				<string>Milk</string>
+				<string>Soy milk</string>
+				<string>Non-fat milk</string>
+				<string>Low fat milk</string>
+				<string>Bravemilk</string>
+				<string>Non form</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>None</string>
+				<string>Add less shot</string>
+				<string>Add shot</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Other Beverages</string>
+			<key>Name</key>
+			<string>Lavender Earl Gray Tea Latte</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/LavenderEarlGreyTeaLatte.jpg</string>
+			<key>Calorie</key>
+			<string>076</string>
+			<key>Price</key>
+			<string>370</string>
+			<key>Temperature</key>
+			<array>
+				<string>Hot</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Short</string>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>more syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add caramel syrup</string>
+				<string>Change to caramel syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>Add mocha syrup</string>
+				<string>Change to mocha syrup</string>
+				<string>White mocha syrup addition</string>
+				<string>Change to white mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>Powder</key>
+			<array/>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>None</string>
+				<string>Whip addition</string>
+			</array>
+			<key>MilkCustom</key>
+			<array>
+				<string>None</string>
+				<string>All milk</string>
+			</array>
+			<key>Milk</key>
+			<array>
+				<string>Milk</string>
+				<string>Soy milk</string>
+				<string>Non-fat milk</string>
+				<string>Low fat milk</string>
+				<string>Bravemilk</string>
+				<string>Non form</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>None</string>
+				<string>Add less shot</string>
+				<string>Add shot</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Other Beverages</string>
+			<key>Name</key>
+			<string>Black tea</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/blacktea.jpg</string>
+			<key>Calorie</key>
+			<string>0</string>
+			<key>Price</key>
+			<string>280</string>
+			<key>Temperature</key>
+			<array>
+				<string>Ice</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Short</string>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>More syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add caramel syrup</string>
+				<string>Change to caramel syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>White mocha syrup addition</string>
+				<string>Change to white mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>Powder</key>
+			<array/>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>No change</string>
+				<string>Whip amount increase</string>
+				<string>No whip</string>
+			</array>
+			<key>Milk</key>
+			<array>
+				<string>Milk</string>
+				<string>Soy milk</string>
+				<string>Non-fat milk</string>
+				<string>Low fat milk</string>
+				<string>Bravemilk</string>
+				<string>Non form</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>None</string>
+				<string>Add less shot</string>
+				<string>Add shot</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Other Beverages</string>
+			<key>Name</key>
+			<string>Passion tea</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/passiontea.jpg</string>
+			<key>Calorie</key>
+			<string>0</string>
+			<key>Price</key>
+			<string>280</string>
+			<key>Temperature</key>
+			<array>
+				<string>Ice</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Short</string>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>More syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add caramel syrup</string>
+				<string>Change to caramel syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>White mocha syrup addition</string>
+				<string>Change to white mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>Powder</key>
+			<array/>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>No change</string>
+				<string>Whip amount increase</string>
+				<string>No whip</string>
+			</array>
+			<key>Milk</key>
+			<array>
+				<string>Milk</string>
+				<string>Soy milk</string>
+				<string>Non-fat milk</string>
+				<string>Low fat milk</string>
+				<string>Bravemilk</string>
+				<string>Non form</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>None</string>
+				<string>Add less shot</string>
+				<string>Add shot</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Other Beverages</string>
+			<key>Name</key>
+			<string>Matcha tea Latte</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/GreenTeaLatte.jpg</string>
+			<key>Calorie</key>
+			<string>169</string>
+			<key>Price</key>
+			<string>390</string>
+			<key>Temperature</key>
+			<array>
+				<string>Hot</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Short</string>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>more syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add caramel syrup</string>
+				<string>Change to caramel syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>Add mocha syrup</string>
+				<string>Change to mocha syrup</string>
+				<string>White mocha syrup addition</string>
+				<string>Change to white mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>Powder</key>
+			<array>
+				<string>No addition</string>
+				<string>Extra powder</string>
+			</array>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>None</string>
+				<string>Whip addition</string>
+			</array>
+			<key>MilkCustom</key>
+			<array>
+				<string>None</string>
+				<string>All milk</string>
+			</array>
+			<key>Milk</key>
+			<array>
+				<string>Milk</string>
+				<string>Soy milk</string>
+				<string>Non-fat milk</string>
+				<string>Low fat milk</string>
+				<string>Bravemilk</string>
+				<string>Non form</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>None</string>
+				<string>Add less shot</string>
+				<string>Add shot</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Other Beverages</string>
+			<key>Name</key>
+			<string>English breakfast tea Latte</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/EnglishBreakfastTeaLatte.jpg</string>
+			<key>Calorie</key>
+			<string>078</string>
+			<key>Price</key>
+			<string>370</string>
+			<key>Temperature</key>
+			<array>
+				<string>Hot</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Short</string>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>more syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add caramel syrup</string>
+				<string>Change to caramel syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>Add mocha syrup</string>
+				<string>Change to mocha syrup</string>
+				<string>White mocha syrup addition</string>
+				<string>Change to white mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>Powder</key>
+			<array/>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>None</string>
+				<string>Whip addition</string>
+			</array>
+			<key>MilkCustom</key>
+			<array>
+				<string>None</string>
+				<string>All milk</string>
+			</array>
+			<key>Milk</key>
+			<array>
+				<string>Milk</string>
+				<string>Soy milk</string>
+				<string>Non-fat milk</string>
+				<string>Low fat milk</string>
+				<string>Bravemilk</string>
+				<string>Non form</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>None</string>
+				<string>Add less shot</string>
+				<string>Add shot</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Other Beverages</string>
+			<key>Name</key>
+			<string>Caramel steamer</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/CaramelSteamer.jpg</string>
+			<key>Calorie</key>
+			<string>175</string>
+			<key>Price</key>
+			<string>360</string>
+			<key>Temperature</key>
+			<array>
+				<string>Hot</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Short</string>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>More syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>Add mocha syrup</string>
+				<string>Change to mocha syrup</string>
+				<string>White mocha syrup addition</string>
+				<string>Change to white mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>Powder</key>
+			<array/>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>No change</string>
+				<string>Whip amount increase</string>
+				<string>No whip</string>
+			</array>
+			<key>Milk</key>
+			<array>
+				<string>Milk</string>
+				<string>Soy milk</string>
+				<string>Non-fat milk</string>
+				<string>Low fat milk</string>
+				<string>Bravemilk</string>
+				<string>Non form</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>None</string>
+				<string>Add less shot</string>
+				<string>Add shot</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Other Beverages</string>
+			<key>Name</key>
+			<string>Cocoa</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/Cocoa.jpg</string>
+			<key>Calorie</key>
+			<string>140</string>
+			<key>Price</key>
+			<string>360</string>
+			<key>Temperature</key>
+			<array>
+				<string>Ice</string>
+				<string>Hot</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Short</string>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>No change</string>
+				<string>Without syrup</string>
+				<string>More syrup</string>
+				<string>Syrup less</string>
+				<string>Add vanilla syrup</string>
+				<string>Change to vanilla syrup</string>
+				<string>Add caramel syrup</string>
+				<string>Change to caramel syrup</string>
+				<string>Add hazelnut syrup</string>
+				<string>Change to hazelnut syrup</string>
+				<string>White mocha syrup addition</string>
+				<string>Change to white mocha syrup</string>
+				<string>Chai syrup addition</string>
+				<string>Change to chai syrup</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>No change</string>
+				<string>Without source</string>
+				<string>High source number</string>
+				<string>Less than source</string>
+				<string>Add chocolate sauce</string>
+				<string>Change to chocolate source</string>
+				<string>Add caramel source</string>
+				<string>Change to caramel source</string>
+			</array>
+			<key>Powder</key>
+			<array/>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>No change</string>
+				<string>Whip amount increase</string>
+				<string>No whip</string>
+			</array>
+			<key>Milk</key>
+			<array>
+				<string>Milk</string>
+				<string>Soy milk</string>
+				<string>Non-fat milk</string>
+				<string>Low fat milk</string>
+				<string>Bravemilk</string>
+				<string>Non form</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>None</string>
+				<string>Add less shot</string>
+				<string>Add shot</string>
+			</array>
+		</dict>
+	</array>
+	<key>TemperatureDic</key>
+	<dict>
+		<key>Lavender Earl Gray Tea Latte</key>
+		<string>4</string>
+		<key>English breakfast tea Latte</key>
+		<string>3</string>
+		<key>Chai tea Latte</key>
+		<string>2</string>
+		<key>Caramel steamer</key>
+		<string>3</string>
+		<key>Cocoa</key>
+		<string>4</string>
+		<key>Mango Passion Tea Frappuccino</key>
+		<string>0</string>
+		<key>Vanilla cream Frappuccino</key>
+		<string>0</string>
+		<key>Caramel Frappuccino</key>
+		<string>0</string>
+		<key>Coffee Frappuccino</key>
+		<string>0</string>
+		<key>Matcha cream cream Frappuccino</key>
+		<string>1</string>
+		<key>Dark Mocha Chip Cream Frappuccino</key>
+		<string>1</string>
+		<key>Dark mocha chips Frappuccino</key>
+		<string>0</string>
+		<key>Cafe Americano</key>
+		<string>4</string>
+		<key>Caramel Machiatoart</key>
+		<string>2</string>
+		<key>White mocha</key>
+		<string>2</string>
+		<key>Cafe Mocha</key>
+		<string>4</string>
+		<key>Cappuccino</key>
+		<string>3</string>
+		<key>Starbucks Latte</key>
+		<string>2</string>
+		<key>Soy Latte</key>
+		<string>3</string>
+		<key>Cafe mist</key>
+		<string>1</string>
+		<key>Black tea</key>
+		<string>0</string>
+		<key>Passion tea</key>
+		<string>0</string>
+	</dict>
+	<key>SweetnessDic</key>
+	<dict>
+		<key>Lavender Earl Gray Tea Latte</key>
+		<string>2</string>
+		<key>English breakfast tea Latte</key>
+		<string>2</string>
+		<key>Chai tea Latte</key>
+		<string>2</string>
+		<key>Caramel steamer</key>
+		<string>4</string>
+		<key>Cocoa</key>
+		<string>4</string>
+		<key>Mango Passion Tea Frappuccino</key>
+		<string>2</string>
+		<key>Vanilla cream Frappuccino</key>
+		<string>4</string>
+		<key>Caramel Frappuccino</key>
+		<string>3</string>
+		<key>Coffee Frappuccino</key>
+		<string>0</string>
+		<key>Matcha cream cream Frappuccino</key>
+		<string>2</string>
+		<key>Dark Mocha Chip Cream Frappuccino</key>
+		<string>0</string>
+		<key>Dark mocha chips Frappuccino</key>
+		<string>1</string>
+		<key>Cafe Americano</key>
+		<string>0</string>
+		<key>Caramel Machiatoart</key>
+		<string>3</string>
+		<key>White mocha</key>
+		<string>4</string>
+		<key>Cafe Mocha</key>
+		<string>3</string>
+		<key>Cappuccino</key>
+		<string>3</string>
+		<key>Starbucks Latte</key>
+		<string>1</string>
+		<key>Soy Latte</key>
+		<string>1</string>
+		<key>Cafe mist</key>
+		<string>1</string>
+		<key>Black tea</key>
+		<string>0</string>
+		<key>Passion tea</key>
+		<string>1</string>
+	</dict>
+	<key>PriceDic</key>
+	<dict>
+		<key>All milk</key>
+		<string>0</string>
+		<key>Extra powder</key>
+		<string>0</string>
+		<key>Milk</key>
+		<string>0</string>
+		<key>Without syrup</key>
+		<string>0</string>
+		<key>More syrup</key>
+		<string>0</string>
+		<key>Syrup less</key>
+		<string>0</string>
+		<key>Change syrup</key>
+		<string>0</string>
+		<key>No syrup</key>
+		<string>0</string>
+		<key>No source</key>
+		<string>0</string>
+		<key>Source change</key>
+		<string>0</string>
+		<key>High source number</key>
+		<string>0</string>
+		<key>Source less</key>
+		<string>0</string>
+		<key>Without source</key>
+		<string>0</string>
+		<key>No whip</key>
+		<string>0</string>
+		<key>No change</key>
+		<string>0</string>
+		<key>No addition</key>
+		<string>0</string>
+		<key>None</key>
+		<string>0</string>
+		<key>Whip amount increase</key>
+		<string>0</string>
+		<key>Whip addition</key>
+		<string>50</string>
+		<key>Less shot</key>
+		<string>0</string>
+		<key>Add less shot</key>
+		<string>50</string>
+		<key>Add shot</key>
+		<string>50</string>
+		<key>Chocolate chip</key>
+		<string>50</string>
+		<key>Chocolate chip addition</key>
+		<string>50</string>
+		<key>Chocolate chip increment</key>
+		<string>0</string>
+		<key>Coffee base increment</key>
+		<string>50</string>
+		<key>Add chocolate sauce</key>
+		<string>0</string>
+		<key>Change to chocolate sauce</key>
+		<string>0</string>
+		<key>Add a caramel source</key>
+		<string>0</string>
+		<key>Change to caramel source</key>
+		<string>0</string>
+		<key>Coffee jelly</key>
+		<string>50</string>
+		<key>Simple syrup addition</key>
+		<string>50</string>
+		<key>Change to simple syrup</key>
+		<string>0</string>
+		<key>Add vanilla syrup</key>
+		<string>50</string>
+		<key>Change to vanilla syrup</key>
+		<string>0</string>
+		<key>Add caramel syrup</key>
+		<string>50</string>
+		<key>Change to caramel syrup</key>
+		<string>0</string>
+		<key>Add hazelnut syrup</key>
+		<string>50</string>
+		<key>Change to hazelnut syrup</key>
+		<string>0</string>
+		<key>Almond syrup addition</key>
+		<string>50</string>
+		<key>Change to almond syrup</key>
+		<string>0</string>
+		<key>Mocha syrup addition</key>
+		<string>50</string>
+		<key>Change to Mocha syrup</key>
+		<string>0</string>
+		<key>White mocha syrup addition</key>
+		<string>50</string>
+		<key>Change to white mocha syrup</key>
+		<string>0</string>
+		<key>Chai syrup addition</key>
+		<string>50</string>
+		<key>Change to chai syrup</key>
+		<string>0</string>
+		<key>Bravemilk</key>
+		<string>0</string>
+		<key>Low fat milk</key>
+		<string>0</string>
+		<key>Non-fat milk</key>
+		<string>0</string>
+		<key>Soy milk</key>
+		<string>50</string>
+		<key>Non form</key>
+		<string>0</string>
+		<key>Decafe</key>
+		<string>50</string>
+	</dict>
+	<key>CalorieDic</key>
+	<dict>
+		<key>All milk</key>
+		<string>20</string>
+		<key>Extra powder</key>
+		<string>3</string>
+		<key>Milk</key>
+		<string>0</string>
+		<key>Without syrup</key>
+		<string>-20</string>
+		<key>More syrup</key>
+		<string>10</string>
+		<key>Syrup less</key>
+		<string>-10</string>
+		<key>Change syrup</key>
+		<string>0</string>
+		<key>No syrup</key>
+		<string>0</string>
+		<key>No source</key>
+		<string>0</string>
+		<key>Source change</key>
+		<string>0</string>
+		<key>High source number</key>
+		<string>5</string>
+		<key>Source less</key>
+		<string>-5</string>
+		<key>Without source</key>
+		<string>-10</string>
+		<key>No whip</key>
+		<string>0</string>
+		<key>No change</key>
+		<string>0</string>
+		<key>No addition</key>
+		<string>0</string>
+		<key>None</key>
+		<string>0</string>
+		<key>Whip amount increase</key>
+		<string>40</string>
+		<key>Whip addition</key>
+		<string>83</string>
+		<key>Less shot</key>
+		<string>0</string>
+		<key>Add less shot</key>
+		<string>2</string>
+		<key>Add shot</key>
+		<string>5</string>
+		<key>Chocolate chip</key>
+		<string>30</string>
+		<key>Chocolate chip increment</key>
+		<string>15</string>
+		<key>Coffee base increment</key>
+		<string>10</string>
+		<key>Add chocolate sauce</key>
+		<string>8</string>
+		<key>Change to chocolate sauce</key>
+		<string>0</string>
+		<key>Add a caramel source</key>
+		<string>22</string>
+		<key>Change to caramel source</key>
+		<string>0</string>
+		<key>Coffee jelly</key>
+		<string>30</string>
+		<key>Simple syrup addition</key>
+		<string>21</string>
+		<key>Change to simple syrup</key>
+		<string>0</string>
+		<key>Add vanilla syrup</key>
+		<string>19</string>
+		<key>Change to vanilla syrup</key>
+		<string>0</string>
+		<key>Add caramel syrup</key>
+		<string>21</string>
+		<key>Change to caramel syrup</key>
+		<string>0</string>
+		<key>Add hazelnut syrup</key>
+		<string>20</string>
+		<key>Change to hazelnut syrup</key>
+		<string>0</string>
+		<key>Almond syrup addition</key>
+		<string>20</string>
+		<key>Change to almond syrup</key>
+		<string>0</string>
+		<key>Mocha syrup addition</key>
+		<string>20</string>
+		<key>Change to Mocha syrup</key>
+		<string>0</string>
+		<key>White mocha syrup addition</key>
+		<string>41</string>
+		<key>Change to white mocha syrup</key>
+		<string>0</string>
+		<key>Chai syrup addition</key>
+		<string>23</string>
+		<key>Change to chai syrup</key>
+		<string>0</string>
+		<key>Bravemilk</key>
+		<string>0</string>
+		<key>Low fat milk</key>
+		<string>-20</string>
+		<key>Non-fat milk</key>
+		<string>-25</string>
+		<key>Soy milk</key>
+		<string>0</string>
+		<key>Non form</key>
+		<string>0</string>
+		<key>Decafe</key>
+		<string>0</string>
+	</dict>
+	<key>ReadingDic</key>
+	<dict>
+		<key>All milk</key>
+		<string>All milk</string>
+		<key>Non form</key>
+		<string>Non form</string>
+		<key>Extra powder</key>
+		<string>Extra powder</string>
+		<key>Cafe mist</key>
+		<string>Cafe mist</string>
+		<key>Soy Latte</key>
+		<string>Soy Latte</string>
+		<key>Milk</key>
+		<string></string>
+		<key>Without syrup</key>
+		<string>Non syrup</string>
+		<key>More syrup</key>
+		<string>Extra syrup</string>
+		<key>Syrup less</key>
+		<string>Light syrup</string>
+		<key>Change syrup</key>
+		<string>Change syrup</string>
+		<key>No syrup</key>
+		<string></string>
+		<key>No source</key>
+		<string></string>
+		<key>Source change</key>
+		<string>Change Source</string>
+		<key>High source number</key>
+		<string>extra source</string>
+		<key>Source less</key>
+		<string>Light source</string>
+		<key>Without source</key>
+		<string>non-source</string>
+		<key>No whip</key>
+		<string>Non Whip</string>
+		<key>No change</key>
+		<string></string>
+		<key>No addition</key>
+		<string></string>
+		<key>None</key>
+		<string></string>
+		<key>Whip amount increase</key>
+		<string>Extra Whip</string>
+		<key>Whip addition</key>
+		<string>Add whip</string>
+		<key>Decafe</key>
+		<string>Decafe</string>
+		<key>Less shot</key>
+		<string>Listlet</string>
+		<key>Add less shot</key>
+		<string>Adlisterlet shot</string>
+		<key>Add shot</key>
+		<string>Add shot</string>
+		<key>Chocolate chip</key>
+		<string>Add chocolate chip</string>
+		<key>Chocolate chip increment</key>
+		<string>Extra chip</string>
+		<key>Coffee base increment</key>
+		<string>Extra coffee</string>
+		<key>Add chocolate sauce</key>
+		<string>Chocolate source</string>
+		<key>Change to chocolate sauce</key>
+		<string>Change chocolate source</string>
+		<key>Add a caramel source</key>
+		<string>Caramel sauce</string>
+		<key>Change to caramel source</key>
+		<string>Change caramel sauce</string>
+		<key>Coffee jelly</key>
+		<string>Add jelly</string>
+		<key>Simple syrup</key>
+		<string></string>
+		<key>Add vanilla syrup</key>
+		<string>Vanilla</string>
+		<key>Change to vanilla syrup</key>
+		<string>Vhange vanilla</string>
+		<key>Add caramel syrup</key>
+		<string>Caramel</string>
+		<key>Change to caramel syrup</key>
+		<string>Vhange caramel</string>
+		<key>Add hazelnut syrup</key>
+		<string>Hazelnut</string>
+		<key>Change to hazelnut syrup</key>
+		<string>Change hazelnut</string>
+		<key>Almond syrup addition</key>
+		<string>Almond</string>
+		<key>Change to almond syrup</key>
+		<string>Change almond</string>
+		<key>Mocha syrup addition</key>
+		<string>Mocha</string>
+		<key>Change to Mocha syrup</key>
+		<string>Change mocha</string>
+		<key>White mocha syrup addition</key>
+		<string>White Mocha</string>
+		<key>Change to white mocha syrup</key>
+		<string>Change white mocha</string>
+		<key>Chai syrup addition</key>
+		<string>Chai</string>
+		<key>Change to chai syrup</key>
+		<string>Change chai</string>
+		<key>Bravemilk</key>
+		<string>Brave</string>
+		<key>Low fat milk</key>
+		<string>Two percent</string>
+		<key>Non-fat milk</key>
+		<string>Non-fat</string>
+		<key>Soy milk</key>
+		<string>Soy</string>
+		<key>Venti</key>
+		<string>Venti</string>
+		<key>Grande</key>
+		<string>Grande</string>
+		<key>Tall</key>
+		<string>Tall</string>
+		<key>Short</key>
+		<string>Short</string>
+		<key>Full Leaf Chi Tea Latte</key>
+		<string>Full leaf chai Latte</string>
+		<key>Hojicha tea Latte</key>
+		<string>Hojicha tea Latte</string>
+		<key>Lavender Early gray tea Latte</key>
+		<string>Lavender Earl Gray Latte</string>
+		<key>English breakfast tea Latte</key>
+		<string>English breakfast Latte</string>
+		<key>Matcha tea Latte</key>
+		<string>Matcha tea Latte</string>
+		<key>Chai tea Latte</key>
+		<string>Chai Latte</string>
+		<key>Caramel steamer</key>
+		<string>Caramel steamer</string>
+		<key>Cocoa</key>
+		<string>Cocoa</string>
+		<key>Mango Passion Tea Frappuccino</key>
+		<string>Mango Passion Frappuccino</string>
+		<key>Vanilla cream Frappuccino</key>
+		<string>Vanilla cream Frappuccino</string>
+		<key>Caramel Frappuccino</key>
+		<string>Caramel Frappuccino</string>
+		<key>Coffee Frappuccino</key>
+		<string>Coffee Frappuccino</string>
+		<key>Matcha cream Frappuccino</key>
+		<string>Matcha cream Frappuccino</string>
+		<key>Dark mocha chip cream Frappuccino</key>
+		<string>Dark mocha chip cream Frappuccino</string>
+		<key>Dark mocha chip Frappuccino</key>
+		<string>Dark mocha chip Frappuccino</string>
+		<key>Roasted Almond Frappuccino</key>
+		<string>Roasted almond flapcchino</string>
+		<key>Cafe Americano</key>
+		<string>Americano</string>
+		<key>Caramel macchiato</key>
+		<string>Caramel macchiato</string>
+		<key>White mocha</key>
+		<string>White Mocha</string>
+		<key>Cafe mocha</key>
+		<string>Mocha</string>
+		<key>Cappuccino</key>
+		<string>Cappuccino</string>
+		<key>Form Dopio espresso</key>
+		<string>Formopio</string>
+		<key>Starbucks Latte</key>
+		<string>Latte</string>
+		<key>Classic tea cream Frappuccino</key>
+		<string>Classic tea cream Frappuccino</string>
+		<key>Cold Brew Cream Float Valencia</key>
+		<string>Cold Brew Cream Float Valencia</string>
+		<key>Cold Brew Cream Float Hazelnut</key>
+		<string>Cold Brew Cream Float Hazelnut</string>
+		<key>Cold Brew Coffee</key>
+		<string>Cold Brew Coffee</string>
+		<key>Starbucks Refresher&apos;s Beverage Cool Lime</key>
+		<string>Starbucks Refresher&apos;s Beverage Cool Lime</string>
+		<key>Chocolate Cake Top Frappuccino with Strawberry Shot</key>
+		<string>Chocolate Cake Top Frappuccino with Strawberry Shot</string>
+		<key>Almond milk granola frappuccino</key>
+		<string>Almond milk granola frappuccino</string>
+		<key>Nutty almond milk Latte</key>
+		<string>Nutty almond milk Latte</string>
+		<key>Gingerbread Latte</key>
+		<string>Gingerbread Latte</string>
+		<key>Christmas raspberry mocha</key>
+		<string>Christmas raspberry mocha</string>
+		<key>Christmas raspberry mocha Frappuccino</key>
+		<string>Christmas Raspberry Mocha Frappuccino</string>
+		<key>Candy pistachio</key>
+		<string>Candy Pistachio</string>
+		<key>Candy pistachio Frappuccino</key>
+		<string>Candy pistachio Frappuccino</string>
+		<key>Matcha White Latte</key>
+		<string>Matcha White Latte</string>
+		<key>Matcha White Marble Frappuccino</key>
+		<string>Matcha White Marble Frappuccino</string>
+	</dict>
+</dict>
+</plist>
