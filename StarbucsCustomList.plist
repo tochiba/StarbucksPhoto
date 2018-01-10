@@ -8,6 +8,193 @@
 			<key>Type</key>
 			<string>Espresso Beverages</string>
 			<key>Name</key>
+			<string>ピンク メドレー ティー ラテ</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/ComingSoon.png</string>
+			<key>Calorie</key>
+			<string>117</string>
+			<key>Price</key>
+			<string>430</string>
+			<key>Temperature</key>
+			<array>
+				<string>アイス</string>
+				<string>ホット</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Short</string>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>1</string>
+				<string>1</string>
+				<string>2</string>
+				<string>3</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>変更なし</string>
+				<string>シロップ抜き</string>
+				<string>シロップ多め</string>
+				<string>シロップ少なめ</string>
+				<string>バニラシロップ追加</string>
+				<string>バニラシロップに変更</string>
+				<string>キャラメルシロップ追加</string>
+				<string>キャラメルシロップに変更</string>
+				<string>ヘーゼルナッツシロップ追加</string>
+				<string>ヘーゼルナッツシロップに変更</string>
+				<string>モカシロップ追加</string>
+				<string>モカシロップに変更</string>
+				<string>ホワイトモカシロップ追加</string>
+				<string>ホワイトモカシロップに変更</string>
+				<string>チャイシロップ追加</string>
+				<string>チャイシロップに変更</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>変更なし</string>
+				<string>ソース抜き</string>
+				<string>ソース多め</string>
+				<string>ソース少なめ</string>
+				<string>チョコレートソース追加</string>
+				<string>チョコレートソースに変更</string>
+				<string>キャラメルソース追加</string>
+				<string>キャラメルソースに変更</string>
+			</array>
+			<key>Powder</key>
+			<array/>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>なし</string>
+				<string>ホイップ追加</string>
+			</array>
+			<key>Milk</key>
+			<array>
+				<string>ミルク</string>
+				<string>ソイミルク</string>
+				<string>ノンファットミルク</string>
+				<string>低脂肪ミルク</string>
+				<string>ブラベミルク</string>
+				<string>ノンフォーム</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>変更なし</string>
+				<string>ショット少なめ</string>
+				<string>ショット追加</string>
+			</array>
+			<key>Recommend</key>
+			<array>
+				<string>バニラシロップ</string>
+				<string>ショット追加</string>
+				<string>ホイップ追加</string>
+				<string>ヘーゼルナッツシロップ</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Espresso Beverages</string>
+			<key>Name</key>
+			<string>ジョイフルメドレー</string>
+			<key>Photo</key>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/ComingSoon.png</string>
+			<key>Calorie</key>
+			<string>000</string>
+			<key>Price</key>
+			<string>340</string>
+			<key>Temperature</key>
+			<array>
+				<string>アイス</string>
+				<string>ホット</string>
+			</array>
+			<key>Size</key>
+			<array>
+				<string>Tall</string>
+				<string>Grande</string>
+				<string>Venti</string>
+			</array>
+			<key>Shot</key>
+			<array>
+				<string>1</string>
+				<string>1</string>
+				<string>2</string>
+				<string>3</string>
+			</array>
+			<key>Base</key>
+			<array/>
+			<key>Syrup</key>
+			<array>
+				<string>変更なし</string>
+				<string>シロップ抜き</string>
+				<string>シロップ多め</string>
+				<string>シロップ少なめ</string>
+				<string>バニラシロップ追加</string>
+				<string>バニラシロップに変更</string>
+				<string>キャラメルシロップ追加</string>
+				<string>キャラメルシロップに変更</string>
+				<string>ヘーゼルナッツシロップ追加</string>
+				<string>ヘーゼルナッツシロップに変更</string>
+				<string>モカシロップ追加</string>
+				<string>モカシロップに変更</string>
+				<string>ホワイトモカシロップ追加</string>
+				<string>ホワイトモカシロップに変更</string>
+				<string>チャイシロップ追加</string>
+				<string>チャイシロップに変更</string>
+			</array>
+			<key>Sauce</key>
+			<array>
+				<string>変更なし</string>
+				<string>ソース抜き</string>
+				<string>ソース多め</string>
+				<string>ソース少なめ</string>
+				<string>チョコレートソース追加</string>
+				<string>チョコレートソースに変更</string>
+				<string>キャラメルソース追加</string>
+				<string>キャラメルソースに変更</string>
+			</array>
+			<key>Powder</key>
+			<array/>
+			<key>Jelly</key>
+			<array/>
+			<key>WhippedCream</key>
+			<array>
+				<string>なし</string>
+				<string>ホイップ追加</string>
+			</array>
+			<key>Milk</key>
+			<array>
+				<string>ミルク</string>
+				<string>ソイミルク</string>
+				<string>ノンファットミルク</string>
+				<string>低脂肪ミルク</string>
+				<string>ブラベミルク</string>
+				<string>ノンフォーム</string>
+			</array>
+			<key>Espresso</key>
+			<array>
+				<string>変更なし</string>
+				<string>ショット少なめ</string>
+				<string>ショット追加</string>
+			</array>
+			<key>Recommend</key>
+			<array>
+				<string>バニラシロップ</string>
+				<string>ショット追加</string>
+				<string>ホイップ追加</string>
+				<string>ヘーゼルナッツシロップ</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Espresso Beverages</string>
+			<key>Name</key>
 			<string>抹茶 フルーティ ブレンズ ティー ラテ</string>
 			<key>Photo</key>
 			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/ComingSoon.png</string>
@@ -2710,13 +2897,17 @@
 		<string>0</string>
 		<key>パッションティー</key>
 		<string>0</string>
+		<key>ピンク メドレー ティー ラテ</key>
+		<string>3</string>
+		<key>ジョイフルメドレー</key>
+		<string>4</string>
 	</dict>
 	<key>SweetnessDic</key>
 	<dict>
 		<key>ゆずシトラスアンドティー</key>
 		<string>1</string>
 		<key>ほうじ茶 ティー ラテ</key>
-		<string>0</string>
+		<string>2</string>
 		<key>ラベンダー アールグレイ ティー ラテ</key>
 		<string>2</string>
 		<key>イングリッシュ ブレックファースト ティー ラテ</key>
@@ -2734,13 +2925,13 @@
 		<key>キャラメル フラペチーノ</key>
 		<string>3</string>
 		<key>コーヒー フラペチーノ</key>
-		<string>0</string>
-		<key>抹茶 クリーム フラペチーノ</key>
 		<string>2</string>
+		<key>抹茶 クリーム フラペチーノ</key>
+		<string>3</string>
 		<key>ダーク モカ チップ クリーム フラペチーノ</key>
-		<string>0</string>
+		<string>3</string>
 		<key>ダーク モカ チップ フラペチーノ</key>
-		<string>1</string>
+		<string>2</string>
 		<key>カフェ アメリカーノ</key>
 		<string>0</string>
 		<key>キャラメル マキアート</key>
@@ -2768,6 +2959,10 @@
 		<key>ブラックティー</key>
 		<string>0</string>
 		<key>パッションティー</key>
+		<string>0</string>
+		<key>ピンク メドレー ティー ラテ</key>
+		<string>1</string>
+		<key>ジョイフルメドレー</key>
 		<string>0</string>
 	</dict>
 	<key>PriceDic</key>
@@ -3190,6 +3385,10 @@
 		<string>抹茶フルーティブレンズティーラテ</string>
 		<key>抹茶 フルーティ マスカルポーネ フラペチーノ</key>
 		<string>抹茶フルーティマスカルポーネフラペチーノ</string>
+		<key>ピンク メドレー ティー ラテ</key>
+		<string>ピンクメドレーティーラテ</string>
+		<key>ジョイフルメドレー</key>
+		<string>ジョイフルメドレー</string>
 	</dict>
 </dict>
 </plist>
