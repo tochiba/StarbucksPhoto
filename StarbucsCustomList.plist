@@ -162,89 +162,9 @@
 			<key>Type</key>
 			<string>Other Beverages</string>
 			<key>Name</key>
-			<string>スターバックス リフレッシャーズ ビバレッジ クール ライム</string>
-			<key>Photo</key>
-			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/starbucksrefreshersbeveragecoollime.jpg</string>
-			<key>Calorie</key>
-			<string>42</string>
-			<key>Price</key>
-			<string>360</string>
-			<key>Temperature</key>
-			<array>
-				<string>アイス</string>
-			</array>
-			<key>Size</key>
-			<array>
-				<string>Short</string>
-				<string>Tall</string>
-				<string>Grande</string>
-				<string>Venti</string>
-			</array>
-			<key>Shot</key>
-			<array>
-				<string>0</string>
-				<string>0</string>
-				<string>0</string>
-				<string>0</string>
-			</array>
-			<key>Base</key>
-			<array/>
-			<key>Syrup</key>
-			<array>
-				<string>変更なし</string>
-				<string>シロップ抜き</string>
-				<string>バニラシロップ追加</string>
-				<string>バニラシロップに変更</string>
-				<string>キャラメルシロップ追加</string>
-				<string>キャラメルシロップに変更</string>
-				<string>ヘーゼルナッツシロップ追加</string>
-				<string>ヘーゼルナッツシロップに変更</string>
-				<string>モカシロップ追加</string>
-				<string>モカシロップに変更</string>
-				<string>ホワイトモカシロップ追加</string>
-				<string>ホワイトモカシロップに変更</string>
-				<string>チャイシロップ追加</string>
-				<string>チャイシロップに変更</string>
-			</array>
-			<key>Sauce</key>
-			<array>
-				<string>変更なし</string>
-				<string>ソース抜き</string>
-				<string>チョコレートソース追加</string>
-				<string>チョコレートソースに変更</string>
-				<string>キャラメルソース追加</string>
-				<string>キャラメルソースに変更</string>
-			</array>
-			<key>Powder</key>
-			<array/>
-			<key>Jelly</key>
-			<array/>
-			<key>WhippedCream</key>
-			<array>
-				<string>なし</string>
-				<string>ホイップ追加</string>
-			</array>
-			<key>Milk</key>
-			<array/>
-			<key>Espresso</key>
-			<array>
-				<string>なし</string>
-				<string>ショット少なめ追加</string>
-				<string>ショット追加</string>
-			</array>
-			<key>Recommend</key>
-			<array>
-				<string>ソイミルク + ハチミツ</string>
-				<string>フォームミルク多め + ハチミツ</string>
-			</array>
-		</dict>
-		<dict>
-			<key>Type</key>
-			<string>Other Beverages</string>
-			<key>Name</key>
 			<string>コールドブリュー ムース フォーム ヘーゼルナッツ</string>
 			<key>Photo</key>
-			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/ColdBrewAppleCitrus.jpg</string>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/ColdBrewMooseFormHazelnut.jpg</string>
 			<key>Calorie</key>
 			<string>78</string>
 			<key>Price</key>
@@ -396,110 +316,18 @@
 		</dict>
 		<dict>
 			<key>Type</key>
-			<string>Espresso Beverages</string>
+			<string>Other Beverages</string>
 			<key>Name</key>
-			<string>ムース フォーム ラテ</string>
+			<string>スターバックス リフレッシャーズ ビバレッジ クール ライム</string>
 			<key>Photo</key>
-			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/ComingSoon.png</string>
+			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/starbucksrefreshersbeveragecoollime.jpg</string>
 			<key>Calorie</key>
-			<string>163</string>
+			<string>42</string>
 			<key>Price</key>
-			<string>440</string>
+			<string>360</string>
 			<key>Temperature</key>
 			<array>
 				<string>アイス</string>
-				<string>ホット</string>
-			</array>
-			<key>Size</key>
-			<array>
-				<string>Tall</string>
-			</array>
-			<key>Shot</key>
-			<array>
-				<string>1</string>
-				<string>1</string>
-				<string>2</string>
-				<string>3</string>
-			</array>
-			<key>Base</key>
-			<array/>
-			<key>Syrup</key>
-			<array>
-				<string>変更なし</string>
-				<string>シロップ抜き</string>
-				<string>シロップ多め</string>
-				<string>シロップ少なめ</string>
-				<string>バニラシロップ追加</string>
-				<string>バニラシロップに変更</string>
-				<string>キャラメルシロップ追加</string>
-				<string>キャラメルシロップに変更</string>
-				<string>ヘーゼルナッツシロップ追加</string>
-				<string>ヘーゼルナッツシロップに変更</string>
-				<string>モカシロップ追加</string>
-				<string>モカシロップに変更</string>
-				<string>ホワイトモカシロップ追加</string>
-				<string>ホワイトモカシロップに変更</string>
-				<string>チャイシロップ追加</string>
-				<string>チャイシロップに変更</string>
-			</array>
-			<key>Sauce</key>
-			<array>
-				<string>変更なし</string>
-				<string>ソース抜き</string>
-				<string>ソース多め</string>
-				<string>ソース少なめ</string>
-				<string>チョコレートソース追加</string>
-				<string>チョコレートソースに変更</string>
-				<string>キャラメルソース追加</string>
-				<string>キャラメルソースに変更</string>
-			</array>
-			<key>Powder</key>
-			<array/>
-			<key>Jelly</key>
-			<array/>
-			<key>WhippedCream</key>
-			<array>
-				<string>なし</string>
-				<string>ホイップ追加</string>
-			</array>
-			<key>Milk</key>
-			<array>
-				<string>ミルク</string>
-				<string>ソイミルク</string>
-				<string>ノンファットミルク</string>
-				<string>低脂肪ミルク</string>
-				<string>ブラベミルク</string>
-				<string>ノンフォーム</string>
-			</array>
-			<key>Espresso</key>
-			<array>
-				<string>変更なし</string>
-				<string>ショット少なめ</string>
-				<string>ショット追加</string>
-			</array>
-			<key>Recommend</key>
-			<array>
-				<string>バニラシロップ</string>
-				<string>ショット追加</string>
-				<string>ホイップ追加</string>
-				<string>ヘーゼルナッツシロップ</string>
-			</array>
-		</dict>
-		<dict>
-			<key>Type</key>
-			<string>Espresso Beverages</string>
-			<key>Name</key>
-			<string>ジョイフルメドレー ティー ラテ</string>
-			<key>Photo</key>
-			<string>https://raw.githubusercontent.com/tochiba/StarbucksPhoto/master/JoyfulMedleyTeaLatte.jpg</string>
-			<key>Calorie</key>
-			<string>122</string>
-			<key>Price</key>
-			<string>380</string>
-			<key>Temperature</key>
-			<array>
-				<string>アイス</string>
-				<string>ホット</string>
 			</array>
 			<key>Size</key>
 			<array>
@@ -510,10 +338,10 @@
 			</array>
 			<key>Shot</key>
 			<array>
-				<string>1</string>
-				<string>1</string>
-				<string>2</string>
-				<string>3</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
 			</array>
 			<key>Base</key>
 			<array/>
@@ -521,8 +349,6 @@
 			<array>
 				<string>変更なし</string>
 				<string>シロップ抜き</string>
-				<string>シロップ多め</string>
-				<string>シロップ少なめ</string>
 				<string>バニラシロップ追加</string>
 				<string>バニラシロップに変更</string>
 				<string>キャラメルシロップ追加</string>
@@ -540,8 +366,6 @@
 			<array>
 				<string>変更なし</string>
 				<string>ソース抜き</string>
-				<string>ソース多め</string>
-				<string>ソース少なめ</string>
 				<string>チョコレートソース追加</string>
 				<string>チョコレートソースに変更</string>
 				<string>キャラメルソース追加</string>
@@ -557,26 +381,17 @@
 				<string>ホイップ追加</string>
 			</array>
 			<key>Milk</key>
-			<array>
-				<string>ミルク</string>
-				<string>ソイミルク</string>
-				<string>ノンファットミルク</string>
-				<string>低脂肪ミルク</string>
-				<string>ブラベミルク</string>
-				<string>ノンフォーム</string>
-			</array>
+			<array/>
 			<key>Espresso</key>
 			<array>
-				<string>変更なし</string>
-				<string>ショット少なめ</string>
+				<string>なし</string>
+				<string>ショット少なめ追加</string>
 				<string>ショット追加</string>
 			</array>
 			<key>Recommend</key>
 			<array>
-				<string>バニラシロップ</string>
-				<string>ショット追加</string>
-				<string>ホイップ追加</string>
-				<string>ヘーゼルナッツシロップ</string>
+				<string>ソイミルク + ハチミツ</string>
+				<string>フォームミルク多め + ハチミツ</string>
 			</array>
 		</dict>
 		<dict>
@@ -3194,11 +3009,7 @@
 		<string>0</string>
 		<key>パッションティー</key>
 		<string>0</string>
-		<key>ジョイフルメドレー</key>
-		<string>4</string>
 		<key>ジョイフルメドレー ティー ラテ</key>
-		<string>3</string>
-		<key>ムース フォーム ラテ</key>
 		<string>3</string>
 		<key>コールドブリュー コーヒー</key>
 		<string>0</string>
@@ -3265,12 +3076,8 @@
 		<string>0</string>
 		<key>パッションティー</key>
 		<string>0</string>
-		<key>ジョイフルメドレー</key>
-		<string>0</string>
 		<key>ジョイフルメドレー ティー ラテ</key>
 		<string>1</string>
-		<key>ムース フォーム ラテ</key>
-		<string>2</string>
 		<key>コールドブリュー コーヒー</key>
 		<string>0</string>
 		<key>コールドブリュー ムース フォーム ヘーゼルナッツ</key>
